@@ -1,0 +1,26 @@
+# Game files (Nintendo's copyright) - each user extracts them from their own copy
+original/
+fonts/
+fonts_raw/
+ptbr_head.fdata
+ptbr_root.rdb
+*.fdata
+*.rdb
+*.rdx
+*.BIN
+*.IDX
+romfs_list.txt
+fdata_types.txt
+
+# Original English game text
+translation/**/*.en.json
+
+# Personal / runtime
+save_backup/
+tools/trainer_state/
+__pycache__/
+*.pyc
+
+# Scratch images
+glyph_*.png
+preview_line.png
