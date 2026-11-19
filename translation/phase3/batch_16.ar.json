@@ -297,11 +297,11 @@
  },
  {
   "id": 74,
-  "ar": "<$voicel(1,5)><$motionoff(1,805)><$comeff(1,6)>يو، امم... هل تعرف أي أشجار كبيرة وقوية<br>هنا؟ <$voicel(1,8)><$facial(1,4)>أريد التدرب على <$cdef(27)>Headbutt</color>.<slide><br><$voicel(1,2)><$motion(1,803)><$comeff(1,3)><$facial(1,13)>أ-أوه... <$voicel(1,4)><$emotion(1,3)><$comeff(1,6)>لا ينبغي أن أُسقط الأشجار هكذا<slide><br>عشوائيًا؟<clear><br><$voicel(1,7)><$motion(1,803)><$comeff(1,14)><$facial(1,1)>يو... حسنًا. أنت تقوم بإصلاح بيئي؟<br>وكل هذا من أجل Pokémon هنا؟<clear><br><$voicel(1,5)><$emotion(1,33)>إذن، آه... بعبارة أخرى، آه...<clear><br><$voicel(1,7)><$emotion(1,15)>هذا... مذهل جدًا! يبدو أنني استهنت بك!<clear><br><$voicel(1,9)><$emotion(1,39)>آسف بشأن الأشجار. لن أفعل ذلك مجددًا، و<br>يمكنك أن تناديني متى احتجت إليّ!"
+  "ar": "<$voicel(1,5)><$motionoff(1,805)><$comeff(1,6)>يو، امم... هل تعرف أي أشجار كبيرة وقوية<br>هنا؟ <$voicel(1,8)><$facial(1,4)>أريد التدرب على <$cdef(27)>نطحة</color>.<slide><br><$voicel(1,2)><$motion(1,803)><$comeff(1,3)><$facial(1,13)>أ-أوه... <$voicel(1,4)><$emotion(1,3)><$comeff(1,6)>لا ينبغي أن أُسقط الأشجار هكذا<slide><br>عشوائيًا؟<clear><br><$voicel(1,7)><$motion(1,803)><$comeff(1,14)><$facial(1,1)>يو... حسنًا. أنت تقوم بإصلاح بيئي؟<br>وكل هذا من أجل Pokémon هنا؟<clear><br><$voicel(1,5)><$emotion(1,33)>إذن، آه... بعبارة أخرى، آه...<clear><br><$voicel(1,7)><$emotion(1,15)>هذا... مذهل جدًا! يبدو أنني استهنت بك!<clear><br><$voicel(1,9)><$emotion(1,39)>آسف بشأن الأشجار. لن أفعل ذلك مجددًا، و<br>يمكنك أن تناديني متى احتجت إليّ!"
  },
  {
   "id": 75,
-  "ar": "<$voicel(1,10)><$motionoff(1,814)>غراه!<wait(0.5)><$se2d(2095)><$motionoff(0,182)><wait(0.06)><$comeff(0,5)><wait(0.8)><clear><br><$voicel(1,7)><$emotion(1,14)>واو! آسف! كنت أتدرب على <$cdef(27)>Headbutt</color>!<br><$voicel(1,4)><$motionoff(1,805)><$comeff(1,4)>أأنت بخير؟!<wait(1.0)><$motionoff(0,181)><wait(1.5)><$motionoff(0,250)><wait(1.5)><clear><br><$voicel(1,5)><$comeff(1,17)>همم. يبدو أنك بخير. يا للراحة!<clear><br><$voicel(1,7)><$emotion(1,14)>يجب أن أقول، كنت... طريًا جدًا ومرنًا!<clear><br><$voicel(1,3)>أستطيع تحطيم أي شيء صلب تقريبًا<br>بـ <$cdef(27)>Headbutt</color>...<clear><br><$voicel(1,7)><$emotion(1,38)>لكن لو تقاتلنا، أظن أنني سأجد صعوبة في<br>تحطيمك! لنكن أصدقاء بدلًا من ذلك، اتفقنا؟"
+  "ar": "<$voicel(1,10)><$motionoff(1,814)>غراه!<wait(0.5)><$se2d(2095)><$motionoff(0,182)><wait(0.06)><$comeff(0,5)><wait(0.8)><clear><br><$voicel(1,7)><$emotion(1,14)>واو! آسف! كنت أتدرب على <$cdef(27)>نطحة</color>!<br><$voicel(1,4)><$motionoff(1,805)><$comeff(1,4)>أأنت بخير؟!<wait(1.0)><$motionoff(0,181)><wait(1.5)><$motionoff(0,250)><wait(1.5)><clear><br><$voicel(1,5)><$comeff(1,17)>همم. يبدو أنك بخير. يا للراحة!<clear><br><$voicel(1,7)><$emotion(1,14)>يجب أن أقول، كنت... طريًا جدًا ومرنًا!<clear><br><$voicel(1,3)>أستطيع تحطيم أي شيء صلب تقريبًا<br>بـ <$cdef(27)>نطحة</color>...<clear><br><$voicel(1,7)><$emotion(1,38)>لكن لو تقاتلنا، أظن أنني سأجد صعوبة في<br>تحطيمك! لنكن أصدقاء بدلًا من ذلك، اتفقنا؟"
  },
  {
   "id": 76,
@@ -321,7 +321,7 @@
  },
  {
   "id": 80,
-  "ar": "<$voicel(1,3)><$facial(1,9)><$motion(1,663)><$comeff(1,18)>ماء... أحتاج إلى ماء... آه، لقد جففت تمامًا.<clear><br><$voicel(1,2)><$motion(1,806)><$comeff(1,7)><$facial(1,9)>قطعت كل هذه المسافة، لكنني لا أظن أنني أستطيع<br>الإكمال...<wait(1.0)><$motion(0,748)><wait(1.0)><clear><br><$comeff(1,5)><$facial(1,1)><$motion(1,805)>ماذا؟! <wait(1.8)><$voicel(1,7)>هل كانت تلك Water Gun؟! هل فعلت ذلك؟<clear><br><$voicel(1,10)><$facial(1,4)><$motionoff(1,804)><$comeff(1,9)>شكرًا جزيلًا! لقد أنقذتني!<clear><br><$voicel(1,7)><$emotion(1,39)>أعدك أن أردّ لك الجميل! لنكن أصدقاء!"
+  "ar": "<$voicel(1,3)><$facial(1,9)><$motion(1,663)><$comeff(1,18)>ماء... أحتاج إلى ماء... آه، لقد جففت تمامًا.<clear><br><$voicel(1,2)><$motion(1,806)><$comeff(1,7)><$facial(1,9)>قطعت كل هذه المسافة، لكنني لا أظن أنني أستطيع<br>الإكمال...<wait(1.0)><$motion(0,748)><wait(1.0)><clear><br><$comeff(1,5)><$facial(1,1)><$motion(1,805)>ماذا؟! <wait(1.8)><$voicel(1,7)>هل كانت تلك مسدس الماء؟! هل فعلت ذلك؟<clear><br><$voicel(1,10)><$facial(1,4)><$motionoff(1,804)><$comeff(1,9)>شكرًا جزيلًا! لقد أنقذتني!<clear><br><$voicel(1,7)><$emotion(1,39)>أعدك أن أردّ لك الجميل! لنكن أصدقاء!"
  },
  {
   "id": 81,

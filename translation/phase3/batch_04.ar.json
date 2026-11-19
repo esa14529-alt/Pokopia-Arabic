@@ -65,7 +65,7 @@
  },
  {
   "id": 16,
-  "ar": "<$voicel(1,7)><$emotion(1,8)>يبدو أنك وجدت <$cdef(27)><fqty(1)><$ifull(1263)></color>!<br><$voicel(1,6)><$motion(1,827)><$comeff(1,6)><$facial(1,1)>هل تظن أنك صرت مستعدًا لحفلة <$cdef(27)>Rain Dance</color>؟"
+  "ar": "<$voicel(1,7)><$emotion(1,8)>يبدو أنك وجدت <$cdef(27)><fqty(1)><$ifull(1263)></color>!<br><$voicel(1,6)><$motion(1,827)><$comeff(1,6)><$facial(1,1)>هل تظن أنك صرت مستعدًا لحفلة <$cdef(27)>رقصة المطر</color>؟"
  },
  {
   "id": 17,
@@ -81,7 +81,7 @@
  },
  {
   "id": 20,
-  "ar": "<$voicel(1,7)><$emotion(1,14)>أوهو... يبدو أن حفلة <$cdef(27)>Rain Dance </color>لـ<$cdef(27)>Squirtle</color> نجحت."
+  "ar": "<$voicel(1,7)><$emotion(1,14)>أوهو... يبدو أن حفلة <$cdef(27)>رقصة المطر </color>لـ<$cdef(27)>Squirtle</color> نجحت."
  },
  {
   "id": 21,

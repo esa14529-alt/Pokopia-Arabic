@@ -22,7 +22,7 @@ sentence around it.
   The forms of one item must stay consistent with each other.
 - Use the indefinite form without ال (`كرسي خشبي`, not `الكرسي الخشبي`), because the game
   inserts names into sentences.
-- Keep in Latin script: Pokémon species names, move names, Poké Ball types (Poké Ball,
+- Keep in Latin script: Pokémon species names, Poké Ball types (Poké Ball,
   Great Ball, …), and brand or product names (Nintendo, Joy-Con).
   Pikachu doll → دمية Pikachu. Pewter City → مدينة Pewter: translate the generic word, keep
   the proper name in Latin.

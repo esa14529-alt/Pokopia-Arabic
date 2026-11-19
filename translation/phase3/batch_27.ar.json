@@ -121,11 +121,11 @@
  },
  {
   "id": 30,
-  "ar": "<$comeff(2,9)><$facial(2,1)><$motion(2,806)><$voicel(2,9)><$cdef(27)>Sing</color>!"
+  "ar": "<$comeff(2,9)><$facial(2,1)><$motion(2,806)><$voicel(2,9)><$cdef(27)>الغناء</color>!"
  },
  {
   "id": 31,
-  "ar": "<$comeff(1,3)><$facial(1,1)><$motion(1,806)><$voicel(1,10)><$cdef(27)>Thunder Punch</color>!"
+  "ar": "<$comeff(1,3)><$facial(1,1)><$motion(1,806)><$voicel(1,10)><$cdef(27)>لكمة رعدية</color>!"
  },
  {
   "id": 32,
@@ -157,7 +157,7 @@
  },
  {
   "id": 39,
-  "ar": "<$comeff(1,5)><$facial(1,1)><$motion(1,806)><$voicel(1,10)><$cdef(27)>Thunder Punch</color>!"
+  "ar": "<$comeff(1,5)><$facial(1,1)><$motion(1,806)><$voicel(1,10)><$cdef(27)>لكمة رعدية</color>!"
  },
  {
   "id": 40,
@@ -889,7 +889,7 @@
  },
  {
   "id": 222,
-  "ar": "<$emotion(1,27)><$voicel(1,9)>رأسي؟! أنا بارع في استخدام رأسي يا صاح! <$emotion(1,8)><$voicel(1,7)>ذات مرة<br>هزمت 30 خصمًا متتاليًا بحركة Headbutt!"
+  "ar": "<$emotion(1,27)><$voicel(1,9)>رأسي؟! أنا بارع في استخدام رأسي يا صاح! <$emotion(1,8)><$voicel(1,7)>ذات مرة<br>هزمت 30 خصمًا متتاليًا بحركة نطحة!"
  },
  {
   "id": 223,

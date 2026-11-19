@@ -1,5 +1,5 @@
 @echo off
 title Pokopia - PP Lock
 cd /d "%~dp0tools"
-py pp_lock.py
+py -u pp_lock.py
 pause

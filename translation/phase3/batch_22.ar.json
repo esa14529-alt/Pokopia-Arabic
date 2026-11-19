@@ -33,7 +33,7 @@
  },
  {
   "id": 8,
-  "ar": "<$voicel(2,2)><$facial(2,2)><$comeff(2,3)>آه، فهمت! <wait(1.0)><$facial(2,10)><$motion(2,805)><$comeff(2,7)><$voicel(2,1)>إذن ساعدته حين كان جائعًا جدًا<br>ولا يقدر على الحركة...<$facial(2,14)><$motion(2,662)><$comeff(2,21)><$voicel(2,9)>فعلّمك <$cdef(27)>Dive </color>ليشكرك، صحيح؟"
+  "ar": "<$voicel(2,2)><$facial(2,2)><$comeff(2,3)>آه، فهمت! <wait(1.0)><$facial(2,10)><$motion(2,805)><$comeff(2,7)><$voicel(2,1)>إذن ساعدته حين كان جائعًا جدًا<br>ولا يقدر على الحركة...<$facial(2,14)><$motion(2,662)><$comeff(2,21)><$voicel(2,9)>فعلّمك <$cdef(27)>الغوص </color>ليشكرك، صحيح؟"
  },
  {
   "id": 9,
@@ -49,7 +49,7 @@
  },
  {
   "id": 12,
-  "ar": "<oneline><$facial(2,4)><$motion(2,664)><$comeff(2,10)><$voicel(2,10)>طبعًا يمكنك!<clear><br><$facial(7,4)><$emotion(2,13)><$voicel(2,5)>أعني، السبب الوحيد في أن <$cdef(27)><pname;0></color><br>استطاع<slide><br>أن<slide><br>يأتي<slide><br>إلى<slide><br>هنا<slide><br>هو<slide><br><$facial(2,10)><$comeff(2,4)><$voicel(2,2)>أنك<slide><br>أنت<slide><br>من<slide><br>علّمه <$cdef(27)>Dive</color>!<$motion(2,654)><clear><br><$emotion(2,48)><$facial(2,7)><$voicel(2,7)>وهو السبب في أن هذه البلدة صارت مشرقة<br>ومبهجة الآن!<clear><br><$facial(2,5)><$motion(2,838)><$comeff(2,21)><$voicel(2,9)>يعني أن كل ما لدينا الآن هو بفضلك أنت أيضًا،<br>لذا طبعًا نريدك أن تبقى!"
+  "ar": "<oneline><$facial(2,4)><$motion(2,664)><$comeff(2,10)><$voicel(2,10)>طبعًا يمكنك!<clear><br><$facial(7,4)><$emotion(2,13)><$voicel(2,5)>أعني، السبب الوحيد في أن <$cdef(27)><pname;0></color><br>استطاع<slide><br>أن<slide><br>يأتي<slide><br>إلى<slide><br>هنا<slide><br>هو<slide><br><$facial(2,10)><$comeff(2,4)><$voicel(2,2)>أنك<slide><br>أنت<slide><br>من<slide><br>علّمه <$cdef(27)>الغوص</color>!<$motion(2,654)><clear><br><$emotion(2,48)><$facial(2,7)><$voicel(2,7)>وهو السبب في أن هذه البلدة صارت مشرقة<br>ومبهجة الآن!<clear><br><$facial(2,5)><$motion(2,838)><$comeff(2,21)><$voicel(2,9)>يعني أن كل ما لدينا الآن هو بفضلك أنت أيضًا،<br>لذا طبعًا نريدك أن تبقى!"
  },
  {
   "id": 13,

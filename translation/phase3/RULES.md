@@ -34,7 +34,7 @@ normal logical order. The build tool shapes the letters and reorders them.
   speech and so on. Turn English slang and contractions ("meetcha", "gonna", "bud") into
   natural, light Arabic (يا صديقي، سأفعل).
 - Interjections become Arabic interjections: أوه، واو، همم، آه. Keep "..." and "♪".
-- Keep Pokémon species names, move names and Poké Ball types in Latin script.
+- Keep Pokémon species names and Poké Ball types in Latin script. Move names are Arabic (see tools/move_names.py).
 
 ## Process
 1. Write the translation as Python scripts in the scratchpad folder you are given. Split the
