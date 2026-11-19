@@ -757,7 +757,7 @@
  },
  {
   "id": 189,
-  "ar": "<oneline><$voicel(1,5)><$motion(1,661)>أوه، <$cdef(27)><pname;0></color>، أين أنت<br>يا<slide><br>ترى<slide><br>الآن؟<clear><br><$voicel(1,8)><$facial(1,4)>أحاول تحسين مهاراتي في <$cdef(27)>PC </color>حاليًا."
+  "ar": "<oneline><$voicel(1,5)><$motion(1,661)>أوه، <$cdef(27)><pname;0></color>، أين أنت<br>يا<slide><br>ترى<slide><br>الآن؟<clear><br><$voicel(1,8)><$facial(1,4)>أحاول تحسين مهاراتي في <$cdef(27)>الحاسوب </color>حاليًا."
  },
  {
   "id": 190,
@@ -1153,7 +1153,7 @@
  },
  {
   "id": 288,
-  "ar": "<$voicel(1,8)>أوه! هناك! هل هذا... <$cdef(27)>PC</color>؟<clear><br><$voicel(1,5)>وكومة الركام بجانبه تبدو كبقايا<br><$cdef(27)>مركز Pokémon</color>."
+  "ar": "<$voicel(1,8)>أوه! هناك! هل هذا... <$cdef(27)>الحاسوب</color>؟<clear><br><$voicel(1,5)>وكومة الركام بجانبه تبدو كبقايا<br><$cdef(27)>مركز Pokémon</color>."
  },
  {
   "id": 289,
@@ -1161,19 +1161,19 @@
  },
  {
   "id": 290,
-  "ar": "<$comeff(1,14)><$facial(1,1)><$motion(1,661)><$voicel(1,6)>لا أرى أي شيء آخر يبدو كدليل، فلنبدأ<br>بتفقد ذلك الـ<$cdef(27)>PC</color>.<clear><br><$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>هيا يا <$cdef(27)><pname;0></color>!"
+  "ar": "<$comeff(1,14)><$facial(1,1)><$motion(1,661)><$voicel(1,6)>لا أرى أي شيء آخر يبدو كدليل، فلنبدأ<br>بتفقد ذلك الـ<$cdef(27)>الحاسوب</color>.<clear><br><$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>هيا يا <$cdef(27)><pname;0></color>!"
  },
  {
   "id": 291,
-  "ar": "<$comeff(1,3)><$facial(1,1)><$motion(1,661)><$voicel(1,6)>أولًا، لنفحص ذلك الـ<$cdef(27)>PC</color>."
+  "ar": "<$comeff(1,3)><$facial(1,1)><$motion(1,661)><$voicel(1,6)>أولًا، لنفحص ذلك الـ<$cdef(27)>الحاسوب</color>."
  },
  {
   "id": 292,
-  "ar": "الـ<$cdef(27)>PC </color>لا يستجيب."
+  "ar": "الـ<$cdef(27)>الحاسوب </color>لا يستجيب."
  },
  {
   "id": 293,
-  "ar": "<$comeff(1,3)><$facial(1,1)><$motion(1,661)><$voicel(1,4)>فيو! ذلك الطريق الوعر جعل المشي صعبًا حقًا!<br>والآن، هلّا فحصت ذلك الـ<$cdef(27)>PC</color>؟"
+  "ar": "<$comeff(1,3)><$facial(1,1)><$motion(1,661)><$voicel(1,4)>فيو! ذلك الطريق الوعر جعل المشي صعبًا حقًا!<br>والآن، هلّا فحصت ذلك الـ<$cdef(27)>الحاسوب</color>؟"
  },
  {
   "id": 294,
@@ -1181,7 +1181,7 @@
  },
  {
   "id": 295,
-  "ar": "<$comeff(1,5)><$facial(1,1)><$motion(1,665)><$voicel(1,7)>ماذا؟! يا إلهي، هذه ورطة حقًا...<clear><br><$comeff(1,7)><$facial(1,1)><$motion(1,663)><$voicel(1,3)>إن لم نستطع استخدام الـ<$cdef(27)>PC</color>، سيكون استكشاف المنطقة<br>أصعب بكثير...<$motion(1,658)>"
+  "ar": "<$comeff(1,5)><$facial(1,1)><$motion(1,665)><$voicel(1,7)>ماذا؟! يا إلهي، هذه ورطة حقًا...<clear><br><$comeff(1,7)><$facial(1,1)><$motion(1,663)><$voicel(1,3)>إن لم نستطع استخدام الـ<$cdef(27)>الحاسوب</color>، سيكون استكشاف المنطقة<br>أصعب بكثير...<$motion(1,658)>"
  },
  {
   "id": 296,
@@ -1189,14 +1189,14 @@
  },
  {
   "id": 297,
-  "ar": "<oneline><$comeff(1,20)><$facial(1,4)><$motion(1,803)><$voicel(1,10)>أوه! لقد فهمت يا <$cdef(27)><pname;0></color>!<br>الآلات<slide><br>مثل<slide><br>هذا<slide><br><$cdef(27)>PC</color><slide><br><$comeff(1,10)><$motion(1,661)><$voicel(1,8)>تعمل<slide><br>بالكهرباء<slide><br>فقط!<$motion(1,652)>"
+  "ar": "<oneline><$comeff(1,20)><$facial(1,4)><$motion(1,803)><$voicel(1,10)>أوه! لقد فهمت يا <$cdef(27)><pname;0></color>!<br>الآلات<slide><br>مثل<slide><br>هذا<slide><br><$cdef(27)>الحاسوب</color><slide><br><$comeff(1,10)><$motion(1,661)><$voicel(1,8)>تعمل<slide><br>بالكهرباء<slide><br>فقط!<$motion(1,652)>"
  },
  {
   "id": 298,
-  "ar": "<$comeff(1,14)><$voicel(1,5)>إن استطعنا نقل الـ<$cdef(27)>PC </color>إلى تلك البقعة ذات شرارات<br>الكهرباء، <$emotion(1,8)><$voicel(1,7)>فسنتمكن من استخدامه كما يجب!<clear><br><$comeff(1,3)><$facial(1,1)><$motion(1,806)><$voicel(1,6)>إذن <$cdef(27)><pname;0></color>...<clear><br><$comeff(1,6)><$motion(1,661)><$voicel(1,7)>هلّا دفعت هذا الـ<$cdef(27)>PC</color> نحو الكهرباء؟"
+  "ar": "<$comeff(1,14)><$voicel(1,5)>إن استطعنا نقل الـ<$cdef(27)>الحاسوب </color>إلى تلك البقعة ذات شرارات<br>الكهرباء، <$emotion(1,8)><$voicel(1,7)>فسنتمكن من استخدامه كما يجب!<clear><br><$comeff(1,3)><$facial(1,1)><$motion(1,806)><$voicel(1,6)>إذن <$cdef(27)><pname;0></color>...<clear><br><$comeff(1,6)><$motion(1,661)><$voicel(1,7)>هلّا دفعت هذا الـ<$cdef(27)>الحاسوب</color> نحو الكهرباء؟"
  },
  {
   "id": 299,
-  "ar": "تدفع الـ<$cdef(27)>PC </color>بكل قوتك!"
+  "ar": "تدفع الـ<$cdef(27)>الحاسوب </color>بكل قوتك!"
  }
 ]

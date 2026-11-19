@@ -18,7 +18,7 @@ OPEN_COLOR = re.compile(r"<\$cdef\(\d+\)>")
 CLOSE_COLOR = "</color>"
 PH_BASE = 0x2500  # box-drawing block: bidi class ON, never in game text
 # <qty;n(singular,plural)> carries its words inside the tag; give them Arabic forms.
-QTY = re.compile(r"<qty;(\d+)\(([^,()]*),([^,()]*)\)>")
+QTY = re.compile(r"<(qty|gen);(\d+)\(([^,()]*),([^,()]*)\)>")
 QTY_WORDS = {"CD": "أسطوانة", "CDs": "أسطوانات", "bunch of": "حزمة من", "bunches of": "حزم من",
              "dish": "طبق", "dishes": "أطباق", "it": "إياه", "them": "إياها",
              "patch": "رقعة", "patches": "رقع", "tree": "شجرة", "trees": "أشجار",
@@ -106,10 +106,10 @@ def _line(text: str, carry: str | None) -> tuple[str, str | None]:
 
 def _qty(tag: str) -> str:
     m = QTY.fullmatch(tag)
-    if not m or m.group(2) not in QTY_WORDS:
+    if not m or m.group(3) not in QTY_WORDS:
         return tag
-    one, many = (_line(QTY_WORDS[w], None)[0] for w in m.group(2, 3))
-    return f"<qty;{m.group(1)}({one},{many})>"
+    one, many = (_line(QTY_WORDS[w], None)[0] for w in m.group(3, 4))
+    return f"<{m.group(1)};{m.group(2)}({one},{many})>"
 
 
 def _matching_open(tags, close_index):

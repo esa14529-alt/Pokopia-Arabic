@@ -105,7 +105,7 @@
  },
  {
   "id": 26,
-  "ar": "<oneline><$emotion(1,14)><$voicel(1,5)><$cdef(27)><pname;0></color>! خمّن ماذا! الآن <$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,8)>أنا<br>أقيم<slide><br>هنا<slide><br><$cdef(27)>مسابقة الاختباء والتسلل</color>!<clear><br><$emotion(1,38)><$voicel(1,9)>أخبرني إن أردت المشاركة أيضًا!"
+  "ar": "<oneline><$emotion(1,14)><$voicel(1,5)><$cdef(27)><pname;0></color>! خمّن ماذا! الآن <$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,8)>أنا<br>أقيم<slide><br>هنا<slide><br><$cdef(27)>مسابقة الغميضة</color>!<clear><br><$emotion(1,38)><$voicel(1,9)>أخبرني إن أردت المشاركة أيضًا!"
  },
  {
   "id": 27,
@@ -113,7 +113,7 @@
  },
  {
   "id": 28,
-  "ar": "<$emotion(1,8)><$voicel(1,9)>كان اللعب معك في <$cdef(27)>الاختباء والتسلل</color> ممتعًا! <$emotion(1,37)><$voicel(1,8)>تفضّل،<br>خذ هدية الشكر هذه!"
+  "ar": "<$emotion(1,8)><$voicel(1,9)>كان اللعب معك في <$cdef(27)>الغميضة</color> ممتعًا! <$emotion(1,37)><$voicel(1,8)>تفضّل،<br>خذ هدية الشكر هذه!"
  },
  {
   "id": 29,

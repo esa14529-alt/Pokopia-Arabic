@@ -12,7 +12,7 @@ A fan Arabic translation of Pokémon Pokopia, delivered as a LayeredFS mod.
 | القوائم والواجهة | ✅ |
 | أسماء الأدوات وأوصافها | ✅ |
 | المهام والنصائح | ✅ |
-| الحوارات والقصة | 🔄 قيد العمل |
+| الحوارات والقصة | ✅ |
 
 خط عربي مضاف إلى خطوط اللعبة: [Baloo Bhaijaan 2](arfont/OFL.txt) (رخصة SIL OFL).
 

@@ -1,0 +1,902 @@
+[
+ {
+  "id": 0,
+  "ar": "<$voicel(1,5)><$motion(1,805)><$comeff(1,7)>ماذا؟ لكن هذا بيتي أصلًا! إن كنت سأنتقل، فيجب أن<br>يكون إلى بيت آخر!"
+ },
+ {
+  "id": 1,
+  "ar": "<oneline><$comeff(1,3)><$facial(1,1)><$motion(1,805)><$voicel(1,6)>لكنك تستطيع إصلاح الطريق لو حاولت، صحيح يا<br><$cdef(27)><pname;0></color>؟<slide><br>أرجوك أرجوك أرجوك!"
+ },
+ {
+  "id": 2,
+  "ar": "<$voicel(1,8)><$motion(1,803)><$comeff(1,10)>هذا كل شيء! انتهى الوقت!"
+ },
+ {
+  "id": 3,
+  "ar": "<$voicel(1,3)><$motion(1,807)><$facial(1,9)><$comeff(1,4)>واو، ظننت حقًا أن فريقي سيفوز... <$voicel(1,8)><$motion(1,803)><$facial(1,4)><$comeff(1,10)>أنت<br>بارع جدًا في هذا يا <$cdef(27)><pname;0></color>!<clear><br><$voicel(1,10)><$emotion(1,8)>سأعطيك هدية مميزة جدًا لأنك أبليت<br>بلاءً حسنًا!"
+ },
+ {
+  "id": 4,
+  "ar": "<$voicel(1,8)><$motion(1,803)><$comeff(1,10)>هيا نلعب جولة أخرى من لعبة الاختباء!"
+ },
+ {
+  "id": 5,
+  "ar": "<$voicel(1,7)><$emotion(1,8)>ياااي! سأبذل كل جهدي هذه المرة!"
+ },
+ {
+  "id": 6,
+  "ar": "<$voicel(1,5)><$emotion(1,14)>أوه، حسنًا! في المرة القادمة إذن!"
+ },
+ {
+  "id": 7,
+  "ar": "<$voicel(1,7)><$emotion(1,8)>حسنًا! لنذهب إلى نقطة البداية! سأستعد أنا أيضًا!"
+ },
+ {
+  "id": 8,
+  "ar": "<$comeff(1,14)><$facial(1,9)><$motion(1,666)><$voicel(1,5)>همم، هذا المكان غريب نوعًا ما! أظن أن شيئًا ما<br>ينقصه...<clear><br><$emotion(1,37)><$voicel(1,8)>في الحقيقة، لا أريد الانتقال إلى هنا!"
+ },
+ {
+  "id": 9,
+  "ar": "<$voicel(1,5)><$emotion(1,14)>فهمت! سيستغرق هذا بعض الوقت، فعُد لاحقًا!"
+ },
+ {
+  "id": 10,
+  "ar": "<$voicel(1,7)><$motion(1,803)><$comeff(1,10)>أنا أعمل عليه بجد الآن! انتظر قليلًا<br>بعد!"
+ },
+ {
+  "id": 11,
+  "ar": "<$voicel(1,7)><$emotion(1,8)>استغرق الأمر بعض الوقت، لكن... تا-دا!<br>إليك <class><$cdef(27)><reftarid;0></color>!"
+ },
+ {
+  "id": 12,
+  "ar": "<$voicel(1,4)><$motion(1,807)><$facial(1,9)><$comeff(1,10)>آسف! أنا مشغول جدًا الآن!"
+ },
+ {
+  "id": 13,
+  "ar": "<$voicel(1,8)><$comeff(1,5)><$motion(1,827)>ماذا؟! بيتي اختفى!"
+ },
+ {
+  "id": 14,
+  "ar": "<$comeff(1,19)><$motion(1,802)><$voicel(1,7)>أين ذهب؟ عد يا بيتي! اخرج، اخرج،<br>أينما كنت!"
+ },
+ {
+  "id": 15,
+  "ar": "<$comeff(1,14)><$voicel(1,5)>يا إلهي، يبدو أنه اختفى حقًا.<clear><br><$facial(1,4)><$voicel(1,10)><$comeff(1,10)><$motion(1,801)>لا بأس! سأبدأ البحث عن بيت جديد إذن!"
+ },
+ {
+  "id": 16,
+  "ar": "<oneline><$voicel(1,10)><$comeff(1,10)>أوووه! هذا المكان رائع! سأبدأ العيش هنا<br>من الآن فصاعدًا!<clear><br><$motion(1,801)><$facial(1,5)><$comeff(1,13)><$voicel(1,9)>أنت من صنع هذا المكان، صحيح يا <$cdef(27)><pname;1></color>؟<br>شكرًا لك!"
+ },
+ {
+  "id": 17,
+  "ar": "<oneline><$voicel(1,8)><$voicel(1,10)><$comeff(1,5)>أحضرت لي <iart;0()><fqty(1)><class><$cdef(27)><stfrevp;0></color>؟<br><$facial(1,4)><$voicel(1,9)><$comeff(1,10)><$motion(1,801)>شكرًا<slide><br>لك!<slide><br>لا<slide><br>أطيق<slide><br>الانتظار<slide><br>لأرى<slide><br>كيف<slide><br>سيبدو!"
+ },
+ {
+  "id": 18,
+  "ar": "<$comeff(1,13)><$facial(1,4)><$motion(1,801)><$voicel(1,9)>واااو! هذا البيت جميل جدًا! تُرى ماذا سأفعل<br>هنا!"
+ },
+ {
+  "id": 19,
+  "ar": "<oneline><$comeff(1,3)><$facial(1,1)><$motion(1,666)><$voicel(1,8)>الأشياء التي طلبها <$cdef(27)><refpname;0></color> جاهزة!<br>هل<slide><br>يمكنك<slide><br>أن<slide><br>تعطيها<slide><br>له،<slide><br>من فضلك؟"
+ },
+ {
+  "id": 20,
+  "ar": "<oneline><$voicel(1,7)><$motion(1,827)><$comeff(1,9)><$facial(1,4)>أوه، أوه يا <$cdef(27)><pname;0></color>! هل تريد أن نلعب<br>لعبة<slide><br>أسئلة<slide><br>معًا؟"
+ },
+ {
+  "id": 21,
+  "ar": "<oneline><$voicel(1,10)><$emotion(1,1)>ياااي، شكرًا! لنبدأ!<clear><br><$voicel(1,6)><$facial(1,1)>حسنًا، امم، من برأيك الأطول، أنا<br>أم <$cdef(27)><sizecmppk;1></color>؟"
+ },
+ {
+  "id": 22,
+  "ar": "<$voicel(1,8)><$motion(1,803)><$facial(1,4)><$comeff(1,3)>أوه... حسنًا! ربما في المرة القادمة!"
+ },
+ {
+  "id": 23,
+  "ar": "<oneline>...<wait(0.4)><$voicel(1,10)><$emotion(1,40)>إجابة صحيحة!<clear><br><$voicel(1,7)><$emotion(1,38)>واو يا <$cdef(27)><pname;0></color>! لا بد أنك تنتبه<br>جيدًا!"
+ },
+ {
+  "id": 24,
+  "ar": "...<wait(0.4)><$voicel(1,7)><$emotion(1,48)>أوه، للأسف! إجابة خاطئة! هل كان السؤال<br>صعبًا قليلًا؟<clear><br><$voicel(1,10)><$emotion(1,8)>سأفكر في مسابقة جديدة للمرة القادمة، فلنستمتع<br>مجددًا حينها!"
+ },
+ {
+  "id": 25,
+  "ar": "<$voicel(1,7)><$comeff(1,1)>أوووه، هذا المكان راااائع! سأنتقل إلى هنا!<clear><br><$facial(1,5)><$voicel(1,9)><$comeff(1,13)><$motion(1,801)>تعال لزيارتي أحيانًا، اتفقنا يا <$cdef(27)><pname;1></color>؟"
+ },
+ {
+  "id": 26,
+  "ar": "<oneline><$voicel(1,5)><$emotion(1,27)><$facial(1,4)>هممم... مهلًا، هل أنت...<$cdef(27)><pname;1></color>؟!<br>واااااو!<slide><br><$voicel(1,7)>أنت<slide><br>بارع<slide><br>جدًا<slide><br>جدًا<slide><br>في مهارة<slide><br><$cdef(27)><$spwfull(36)></color>!"
+ },
+ {
+  "id": 27,
+  "ar": "<$comeff(1,17)><$facial(1,9)><$motion(1,803)><$voicel(1,7)>أوه لا! لا توجد مساحة كافية للعب هنا. <$emotion(1,58)><$voicel(1,4)>هل يمكنك<br>إصلاح هذا يا <$cdef(27)><pname;0></color>؟"
+ },
+ {
+  "id": 28,
+  "ar": "<$voicel(1,3)><$motion(1,807)><$comeff(1,7)>همم، لست متأكدًا من العيش هنا... لا أظنه مناسبًا<br>لي."
+ },
+ {
+  "id": 29,
+  "ar": "<$voicel(1,7)><$emotion(1,14)>شكرًا! لكن في الحقيقة، أنا شبعان الآن. <$voicel(1,10)><$emotion(1,38)>هل يمكنني<br>أخذ بعضه لاحقًا، من فضلك؟"
+ },
+ {
+  "id": 30,
+  "ar": "<$emotion(1,29)><$voicel(1,6)>أين يمكنني أن أعيش؟"
+ },
+ {
+  "id": 31,
+  "ar": "<$emotion(1,60)><$voicel(1,9)>واو! هل هذا بيتي الجديد؟!"
+ },
+ {
+  "id": 32,
+  "ar": "<$voicel(1,10)><$emotion(1,1)>يبيي! شكرًا! لنبدأ!<clear><br><$voicel(1,6)><$facial(1,1)>من برأيك الأثقل، أنا أم <$cdef(27)><weightcmppk;1></color>؟"
+ },
+ {
+  "id": 33,
+  "ar": "<$comeff(1,1)><$facial(1,5)><$voicel(1,10)>رائع، أليس كذلك؟ تريده، صحيح؟ صحيييح؟"
+ },
+ {
+  "id": 34,
+  "ar": "<$comeff(1,9)><$facial(1,5)><$voicel(1,10)>كنت أعرف! إذن ماذا ستعطيني مقابله؟"
+ },
+ {
+  "id": 35,
+  "ar": "<$motion(1,827)><$comeff(1,6)><$voicel(1,8)>حسنًا، لا تلمني إن نفد كله لاحقًا!"
+ },
+ {
+  "id": 36,
+  "ar": "<$comeff(1,21)><$motion(1,801)><$facial(1,5)><$voicel(1,9)>هيهيهي! أحب استخدام مهارة <$cdef(27)><flow><$spwfull(12)></color>! إنها ممتعة جدًا!"
+ },
+ {
+  "id": 37,
+  "ar": "<$comeff(1,5)><$motion(1,803)><$voicel(1,5)>ماذا؟ لا تريده؟ لكنني ظننته مثاليًا جدًا<br>لك يا <$cdef(27)><pname;0></color>!"
+ },
+ {
+  "id": 38,
+  "ar": "<$comeff(1,21)><$motion(1,801)><$voicel(1,9)>ياي، شكرًا! هذا كل شيء لليوم! <$comeff(1,13)><$facial(1,5)><$voicel(1,10)>تعال مرة<br>أخرى!"
+ },
+ {
+  "id": 39,
+  "ar": "<$facial(1,4)><$voicel(1,9)><$comeff(1,10)><$motion(1,801)>أتعرف ماذا! سأذهب لاستخدام <$cdef(27)><fqty(1)><$ifull(1325)></color> اليوم!<br>أتمنى أن تأتي لزيارتي يا <$cdef(27)><pname;0></color>!"
+ },
+ {
+  "id": 40,
+  "ar": "<$comeff(1,9)><$facial(1,5)><$motion(1,803)><$voicel(1,7)>انتهيت! لن أستخدم مهارة <$cdef(27)><flow><$spwfull(12)></color> ثانيةً اليوم! أراك<br>في المرة القادمة!"
+ },
+ {
+  "id": 41,
+  "ar": "<$voicel(1,10)><$motion(1,801)><$comeff(1,13)><$facial(1,5)>أوووه، أريد أن أحصل على هذا... وذاك... و... و<br>كل شيء!"
+ },
+ {
+  "id": 42,
+  "ar": "<$voicel(1,7)><$emotion(1,8)>واو، شكرًا! أريد أكله فورًا! ♪"
+ },
+ {
+  "id": 43,
+  "ar": "<$voicel(1,7)><$emotion(1,50)>كلما كان الصباح مشمسًا، أشعر دائمًا أن اليوم<br>سيكون رائعًا!<clear><br><$voicel(1,9)><$motion(1,801)><$facial(1,5)><$comeff(1,10)>أرأيت؟ من شدة حماسي لا أستطيع الجلوس!"
+ },
+ {
+  "id": 44,
+  "ar": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,3)>واو، لا بد أن الشمس في مزاج جيد اليوم! إنها مشرقة<br>ولامعة جدًا! ♪<clear><br><$voicel(1,5)><$motion(1,807)><$facial(1,4)><$comeff(1,10)>كنت أشعر بالنعاس قليلًا، لكنني لا أريد إضاعة هذا<br>اليوم الجميل في القيلولة!"
+ },
+ {
+  "id": 45,
+  "ar": "<oneline><$voicel(1,5)><$emotion(1,14)>مرحبًا، امم... هل تعلم؟ سمعت أنك إن شاهدت<br>الغروب مع شخص تحبه، <$voicel(1,10)><$motionoff(1,804)><$facial(1,5)><$comeff(1,21)>سيبدو أجمل!<clear><br><$voicel(1,7)><$emotion(1,8)>من حسن الحظ أننا نحب بعضنا،<br>صحيح يا <$cdef(27)><pname;0></color>؟ ♪"
+ },
+ {
+  "id": 46,
+  "ar": "<oneline><$voicel(1,5)><$motion(1,805)><$facial(1,4)><$comeff(1,10)>أليس السهر متأخرًا مثيرًا؟!<clear><br><$voicel(1,7)><$emotion(1,8)>ربما أذهب الليلة إلى مكان ما معك يا<br><$cdef(27)><pname;0></color>!"
+ },
+ {
+  "id": 47,
+  "ar": "<$voicel(1,7)><$emotion(1,14)>امم، عندما كنت في مغامرة من قبل، وجدت صخرة<br>رائعة جدًا! <$voicel(1,6)><$motionoff(1,804)><$comeff(1,10)>أحضرتها إلى البيت ووضعتها...<clear><br><$voicel(1,3)><$motion(1,807)><$facial(1,9)><$comeff(1,4)>لكنها الآن اختلطت بالصخور الأخرى ولا أعرف<br>أيها هي!"
+ },
+ {
+  "id": 48,
+  "ar": "<$voicel(1,3)><$motion(1,807)><$facial(1,9)><$comeff(1,4)>قبل قليل حاولت أن أشرب الماء، لكنني أخطأت!<br>ورششته على وجهي!<clear><br><$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,10)>لكن على الأقل صار وجهي نظيفًا الآن، امم... أظن<br>أن كل شيء بخير!"
+ },
+ {
+  "id": 49,
+  "ar": "<$voicel(1,3)><$motion(1,805)><$facial(1,9)><$comeff(1,6)>ماذا؟ قطفت توتة قبل قليل، لكنني الآن لا<br>أجدها! <$voicel(1,6)><$comeff(1,14)>أين وضعتها يا ترى؟<clear><br><$voicel(1,3)><$motion(1,803)><$comeff(1,3)><$facial(1,1)>...أوه. أوه، مهلًا...<br>الآن وقد فكرت في الأمر، <$voicel(1,2)><$facial(1,9)><$motion(1,663)><$comeff(1,17)>أظن أنني أكلتها..."
+ },
+ {
+  "id": 50,
+  "ar": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,10)>حسنًا! هذا كل شيء لليوم، صحيح؟ سأفعل هذا مجددًا،<br>فأتمنى أن تمر حينها!"
+ },
+ {
+  "id": 51,
+  "ar": "<$voicel(1,7)><$motion(1,803)><$comeff(1,10)><$facial(1,4)>أوووه يا <$cdef(27)><pname;0></color>! هيا نستخدم <$cdef(27)> مهارة <fcap><$spwfull(12)> </color>معًا!"
+ },
+ {
+  "id": 52,
+  "ar": "<oneline><$comeff(1,10)><$facial(1,4)><$motion(1,801)><$voicel(1,9)>رأيت <$cdef(27)><shoppk;0></color> في <$cdef(27)><fqty(1)><$ifull(1325)></color>! وكانت<br>هناك<slide><br>أشياء<slide><br>كثيرة<slide><br>رائعة المظهر!"
+ },
+ {
+  "id": 53,
+  "ar": "<$emotion(1,954)><$voicel(1,5)>أتعرف كيف تُصدر قطرات المطر أصواتًا مختلفة<br>عندما تسقط على الماء؟<clear><br><$comeff(1,9)><$facial(1,4)><$voicel(1,8)>مثل «طش!» أو «بلوب!» ...أو «شلب!»<clear><br><$emotion(1,39)><$voicel(1,10)>أحب كل تلك الأصوات!"
+ },
+ {
+  "id": 54,
+  "ar": "<oneline><$emotion(1,29)><$voicel(1,7)>أوه، مرحبًا يا <$cdef(27)><pname;0></color>! هل صحيح أنك<br>كنت<slide><br>تسقي<slide><br>النباتات كثيرًا؟<clear><br><$emotion(1,38)><$voicel(1,9)>كنت أعرف أن هذا المكان صار أجمل من قبل!<br><$emotion(1,50)><$voicel(1,8)>شكرًا على كل تعبك!"
+ },
+ {
+  "id": 55,
+  "ar": "<$emotion(1,60)><$voicel(1,9)>هذا لك! ظننت أنه قد يساعدك!"
+ },
+ {
+  "id": 56,
+  "ar": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,10)>أتعرف؟ أستمتع دائمًا باللعب مع<br><nlpairpk;0>، حتى لو تشاجرنا!<clear><br><$voicel(1,10)><$emotion(1,8)>هممم، ماذا نفعل معًا في المرة<br>القادمة؟ <$pkcry;1(1,2)>! ♪"
+ },
+ {
+  "id": 57,
+  "ar": "<oneline><$voicel(1,9)><$emotion(1,6)><$cdef(27)><pname;0></color>، سعدت كثيرًا لأنك أعطيتني<br><qty;1(that,those)><slide><br><$cdef(27)><fqty(1)><class><nlqueitem;1></color>!<clear><br><$voicel(1,8)><$motion(1,803)><$facial(1,4)><$comeff(1,10)>أخبرت كل كل أصدقائي عنه!"
+ },
+ {
+  "id": 58,
+  "ar": "<$voicel(1,7)><$motion(1,801)><$facial(1,4)><$comeff(1,10)>بيوت البشر تبدو جميلة جدًا! أظنها مذهلة!<clear><br><$voicel(1,5)><$emotion(1,14)><$facial(1,1)>أوه! أراهن أنك تستطيع صنع شيء كهذا، صحيح؟ <$voicel(1,8)><$motion(1,805)><$comeff(1,14)>أود حقًا،<br>حقًا جدًا أن أعيش في واحد..."
+ },
+ {
+  "id": 59,
+  "ar": "<$comeff(1,9)><$motion(1,806)><$voicel(1,9)>رأيت حلمًا ممتعًا جدًا قبل قليل!<clear><br><$emotion(1,14)><$voicel(1,7)>كان فيه أنا آخر، ولعبنا ولعبنا<br>ولعبنا...<$emotion(1,38)><$voicel(1,10)> أوه، وأكلنا طعامًا لذيذًا أيضًا!"
+ },
+ {
+  "id": 60,
+  "ar": "<$voicel(1,5)><$motion(1,805)><$comeff(1,14)>أرى الجميع دائمًا يستيقظون في الوقت الذي<br>سأنام فيه...<clear><br><$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,9)>في الحقيقة، أحب هذا التوقيت كثيرًا! هيهي! على أي حال،<br>سأذهب للنوم قريبًا!"
+ },
+ {
+  "id": 61,
+  "ar": "<$voicel(1,5)><$motion(1,803)><$comeff(1,3)>النجوم عالية جدًا جدًا جداااا هناك!<clear><br><$voicel(1,3)><$motion(1,807)><$comeff(1,10)>أعني، مهما طرت عاليًا، لا أقترب منها أبدًا!<br>مع أنني أريد ذلك حقًا!"
+ },
+ {
+  "id": 62,
+  "ar": "<oneline><$voicel(1,5)><$motion(1,805)><$comeff(1,14)>جسمي طري أيضًا يا <$cdef(27)><pname;1></color>، لكن<br>على عكسك<slide><br>أنت...<clear><br><$voicel(1,4)><$motion(1,807)><$facial(1,9)><$comeff(1,17)>لا أستطيع أن أتحول إلى أي شكل أريده!<clear><br><$voicel(1,7)><$facial(1,1)><$motion(1,803)><$comeff(1,10)>لذا أنا أغار منك قليلًا!"
+ },
+ {
+  "id": 63,
+  "ar": "<$voicel(1,7)><$motion(1,803)><$comeff(1,10)>سمعت أن التقدم في العمر صعب لأن المفاصل<br>تتصلب...<$voicel(1,6)><$motion(1,805)><$comeff(1,6)>لكن الجسم الصلب مفيد جدًا، أتعرف؟<clear><br><$voicel(1,7)><$motionoff(1,804)><$facial(1,4)><$comeff(1,21)>حتى لو اصطدمت بصخرة أو سقطت من مكان<br>عالٍ، أبقى بخير!"
+ },
+ {
+  "id": 64,
+  "ar": "<$voicel(1,9)><$emotion(1,7)>أحب الأكل كثيييرًا! لأنني يجب أن آكل لأكبر!<clear><br><$voicel(1,7)><$motionoff(1,804)><$facial(1,4)><$comeff(1,10)>سآكل وآكل وآكل أكثر و<br>يومًا ما سأصبح أكبر منك!"
+ },
+ {
+  "id": 65,
+  "ar": "<oneline><$voicel(1,7)><$motion(1,803)><$comeff(1,6)>يا <$cdef(27)><pname;0></color>، هل يمكنك بمهارة <$cdef(27)><flow><$spwfull(36)> </color>أن تصبح<br>شيئًا<slide><br>كبيرًا<slide><br>مثلي؟<clear><br><$voicel(1,5)><$motion(1,666)><$comeff(1,14)>لو صرت كبيرًا ثم حملتك على ظهري...<br><$voicel(1,8)><$motion(1,801)><$facial(1,4)><$comeff(1,10)>هل تظن أننا سنصل إلى السماء؟!"
+ },
+ {
+  "id": 66,
+  "ar": "<oneline><$comeff(1,21)><$facial(1,4)><$motion(1,803)><$voicel(1,9)>حركة Water Gun خاصتك رائعة جدًا يا <$cdef(27)><pname;0></color>!<br>ليتني<slide><br>أستطيع<slide><br>فعل<slide><br>ذلك!<clear><br><$comeff(1,3)><$facial(1,1)><$motion(1,807)><$voicel(1,5)>أوه، لكن لا تصوّبها نحوي، من فضلك! هذا خطر!"
+ },
+ {
+  "id": 67,
+  "ar": "<$voicel(1,5)><$motion(1,803)><$comeff(1,3)>سأكون سعيدًا جدًا لو أمطرت كل يوم، لكنني<br>أشعر بالأسف لمن لا يحبون المطر...<clear><br><$voicel(1,7)><$emotion(1,8)>لذا إن استمر المطر طويلًا جدًا، سأساعد<br>بإرسال طاقة مشمسة!"
+ },
+ {
+  "id": 68,
+  "ar": "<$voicel(1,5)><$emotion(1,14)>امم، كنت أستمتع بالشمس قبل قليل، ثم بدأت مجموعة<br>من Pokémon تحب الشمس <$voicel(1,8)><$motionoff(1,804)><$comeff(1,10)>بالظهور، ثم<slide><br>ظهر المزيد والمزيد منهم.<clear><br><$voicel(1,10)><$emotion(1,8)>وبعد قليل صار الأمر يشبه بطولة قيلولة!"
+ },
+ {
+  "id": 69,
+  "ar": "<$voicel(1,5)><$motion(1,805)><$comeff(1,14)>هممم... أين ألعب اليوم؟ ربما أتمشى<br>في مكان مختلف عن المعتاد!<clear><br><$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,20)>أوه! ربما سيكون ممتعًا أن أتبعك فقط يا<br><$cdef(27)><pname;0></color>!"
+ },
+ {
+  "id": 70,
+  "ar": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,21)>أشعر دائمًا بالأمان والراحة عندما أعود إلى<br>البيت الذي أعيش فيه الآن!<clear><br><$voicel(1,9)><$motion(1,801)><$facial(1,5)><$comeff(1,9)>وأنت تأتي لزيارتي هنا أيضًا، وهذا يجعله<br>أفضل! <$pkcry;2(1,2)>! ♪"
+ },
+ {
+  "id": 71,
+  "ar": "<oneline><$voicel(1,5)><$motion(1,803)><$comeff(1,3)><$facial(1,4)>امم، هل تعرف ما الأشياء التي أحب فعلها؟<br>لنرَ... أولًا، أحب الأكل...<$voicel(1,8)><$motion(1,805)><$facial(1,4)><$comeff(1,10)>والنوم... واللعب.<clear><br><$voicel(1,9)><$emotion(1,7)>لكن أكثر شيء أحبه هو اللعب<br>معك يا <$cdef(27)><pname;1></color>!"
+ },
+ {
+  "id": 72,
+  "ar": "<oneline><$voicel(1,5)><$motion(1,803)><$comeff(1,3)>لديك طاقة كبيرة حقًا يا <$cdef(27)><pname;0></color>!<br>أعني،<slide><br>أنت<slide><br>دائمًا<slide><br>تركض<slide><br>هنا وهناك<slide><br>وما إلى ذلك!<clear><br><$voicel(1,3)><$motion(1,805)><$comeff(1,14)>يسعدني أنك تعمل بجد لمساعدتنا جميعًا، لكن...<br><wait(0.4)><$voicel(1,6)><$facial(1,4)><$comeff(1,10)>احرص على أن ترتاح أحيانًا أيضًا، اتفقنا؟<clear><br><$voicel(1,7)><$motion(1,801)><$facial(1,4)><$comeff(1,21)>لأن أكثر ما يسعدنا هو رؤيتك سعيدًا!"
+ },
+ {
+  "id": 73,
+  "ar": "<$voicel(1,5)><$emotion(1,14)>أنا على وفاق كبير مع <$cdef(27)><nlpairpk;0></color>!<clear><br><$voicel(1,7)><$motionoff(1,804)><$facial(1,4)><$comeff(1,10)>مثلًا، كلانا يحب نفس أنواع الطعام، وكلانا<br>يحبك كثيرًا يا <$cdef(27)><pname;1></color>! <$voicel(1,10)><$emotion(1,8)>نحن متشابهان!"
+ },
+ {
+  "id": 74,
+  "ar": "<oneline><$voicel(1,5)><$motion(1,803)><$comeff(1,3)>أتذكر<br><$cdef(27)><fqty(1)><class><nlqueitem;1></color><slide><$cdef(27)><br></color>الذي<slide><br>أعطيتني<slide><br>إياه يا <$cdef(27)><pname;0></color>؟<clear><br><$voicel(1,10)><$emotion(1,7)><qty;1(It was,They were)> لذيذًا جدًا!<clear><br><$voicel(1,7)><$motionoff(1,804)><$facial(1,4)><$comeff(1,10)>أظن أنني قد أصبح ذوّاقًا بسببه!"
+ },
+ {
+  "id": 75,
+  "ar": "<oneline><$voicel(1,7)><$motion(1,803)><$comeff(1,6)>مرحبًا يا <$cdef(27)><pname;0></color>، هل أنت<br>و<$cdef(27)><crstlktar;1></color> صديقان؟<clear><br><$voicel(1,5)><$motion(1,805)><$comeff(1,14)>أريد التحدث إليه أيضًا...<clear><br><$voicel(1,7)><$motionoff(1,804)><$facial(1,4)><$comeff(1,10)>سيكون رائعًا لو عشنا قريبين من بعضنا!"
+ },
+ {
+  "id": 76,
+  "ar": "<oneline><$voicel(1,5)><$emotion(1,14)>مرحبًا يا <$cdef(27)><pname;0></color>، هل سبق أن<br>قابلت <$cdef(27)><crstlktar;1></color>؟<clear><br><$voicel(1,3)><$motion(1,805)><$comeff(1,6)>أريد مقابلته أيضًا، لكنني لا أعرف أين أبحث!<clear><br><$voicel(1,6)><$motionoff(1,804)><$comeff(1,10)>ربما لو عشنا أقرب لبعضنا، لالتقينا<br>صدفة..."
+ },
+ {
+  "id": 77,
+  "ar": "<oneline><$voicel(1,7)><$emotion(1,14)>إليك جائزتك لأنك أبليت حسنًا جدًا يا<br><$cdef(27)><pname;0></color>!"
+ },
+ {
+  "id": 78,
+  "ar": "<$voicel(1,9)><$emotion(1,7)>«بيتي». إيييي! أليس هذا رائعًا؟!<br>«بيتي أنا!»<clear><br><$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,9)>سأعتني بهذا البيت جيدًا، أعدك!"
+ },
+ {
+  "id": 79,
+  "ar": "<$voicel(1,8)><$emotion(1,8)>ياي! حسنًا، لنبدأ...<clear><br><$voicel(1,5)><$motion(1,805)><$facial(1,1)><$comeff(1,6)>ما الطعم الذي يحبه <$cdef(27)><qtargetpk;0></color>؟"
+ },
+ {
+  "id": 80,
+  "ar": "<oneline>...<wait(0.4)><$voicel(1,7)><$motion(1,801)><$facial(1,4)><$comeff(1,20)>صحيح! يبدو أنك تعرف هذه الأشياء،<br>أليس كذلك يا <$cdef(27)><pname;0></color>؟"
+ },
+ {
+  "id": 81,
+  "ar": "...<wait(0.4)><$voicel(1,8)><$motion(1,807)><$comeff(1,10)>بززت! للأسف!<clear><br><$voicel(1,6)><$emotion(1,14)>الإجابة الصحيحة هي <$cdef(27)><ltasteq;0></color>!<clear><br><$voicel(1,7)><$emotion(1,8)>لنلعب مسابقة أخرى يومًا ما! سأفكر في السؤال<br>التالي!"
+ },
+ {
+  "id": 82,
+  "ar": "<$voicel(1,8)><$motion(1,803)><$facial(1,4)><$comeff(1,9)>ياي! حسنًا، لنبدأ...<clear><br><$voicel(1,5)><$motion(1,805)><$facial(1,1)><$comeff(1,6)>ما الطعم الذي يكرهه <$cdef(27)><qtargetpk;0></color> أكثر من غيره؟"
+ },
+ {
+  "id": 83,
+  "ar": "<oneline>...<wait(0.4)><$voicel(1,8)><$motion(1,807)><$comeff(1,10)>بززت! للأسف!<clear><br><$voicel(1,6)><$emotion(1,14)>الإجابة الصحيحة هي <$cdef(27)><htasteq;0></color>!<clear><br><$voicel(1,7)><$emotion(1,8)>لنلعب مسابقة أخرى يومًا ما! سأفكر في السؤال<br>التالي!"
+ },
+ {
+  "id": 84,
+  "ar": "<$voicel(1,8)><$motion(1,801)><$facial(1,4)><$comeff(1,9)>ياي! حسنًا، لنبدأ...<clear><br><$voicel(1,5)><$motion(1,805)><$comeff(1,6)><$facial(1,1)>ما أكثر شيء يحبه <$cdef(27)><qtargetpk;0></color>؟"
+ },
+ {
+  "id": 85,
+  "ar": "<oneline>...<wait(0.4)><$voicel(1,7)><$motion(1,801)><$facial(1,4)><$comeff(1,20)>صحيح!<clear><br>يبدو أنك تعرف هذه الأشياء،<br>أليس كذلك يا <$cdef(27)><pname;0></color>؟"
+ },
+ {
+  "id": 86,
+  "ar": "...<wait(0.4)><$voicel(1,8)><$motion(1,807)><$comeff(1,10)>بززت! للأسف!<clear><br><$voicel(1,6)><$emotion(1,14)>الإجابة الصحيحة هي <$cdef(27)><fqty(2)><class><likemtag;0></color>!<clear><br><$voicel(1,7)><$emotion(1,8)>لنلعب مسابقة أخرى يومًا ما! سأفكر في<br>السؤال التالي!"
+ },
+ {
+  "id": 87,
+  "ar": "<$voicel(1,6)><$emotion(1,8)>لنلعب مجددًا قريبًا!"
+ },
+ {
+  "id": 88,
+  "ar": "<oneline><$voicel(1,5)><$motion(1,805)><$comeff(1,6)>مرحبًا يا <$cdef(27)><pname;0></color>، لديك بعض<br><$cdef(27)><fqty(2)><class><refmateid;1></color>، صحيح؟<clear><br><$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,10)>إن أعطيتني بعضها، يمكنني تحويلها إلى<br><$cdef(27)><fqty(2)><class><reftarid;3></color>!"
+ },
+ {
+  "id": 89,
+  "ar": "<oneline><$voicel(1,3)><$motion(1,807)><$facial(1,9)><$comeff(1,4)>آسف، لا أعرف ماذا أصنع من<br><$cdef(27)><fqty(2)><class><referrmate;0></color>...<slide><br><$voicel(1,8)><$motion(1,803)><$facial(1,1)><$comeff(1,10)>لكن<slide><br><$cdef(27)><referrpk;2></color><slide><br>قد<slide><br>يستطيع<slide><br>أن<slide><br>يساعدك<slide><br>إن<slide><br>طلبت<slide><br>منه!"
+ },
+ {
+  "id": 90,
+  "ar": "<oneline><$voicel(1,3)><$motion(1,807)><$facial(1,9)><$comeff(1,4)>آسف، لا أعرف ماذا أصنع من<br><$cdef(27)><fqty(2)><class><referrmate;0></color>...<slide><br><$voicel(1,2)><$motion(1,805)><$comeff(1,7)>لا<slide><br>أعرف<slide><br>أي<slide><br>أحد<slide><br>آخر<slide><br>قد<slide><br>يعرف<slide><br>أيضًا!"
+ },
+ {
+  "id": 91,
+  "ar": "<oneline><$voicel(1,3)><$motion(1,807)><$facial(1,9)><$comeff(1,4)>آسف، لا أعرف ماذا أصنع من<br><$cdef(27)><fqty(2)><class><referrmate;0></color>...<clear><br><$voicel(1,7)><$emotion(1,14)><$facial(1,1)>أوووه، لكن إن كان لديك<br><$cdef(27)><fqty(2)><class><refmateid;3></color>،<slide><br><$voicel(1,6)><$comeff(1,14)>يمكنني<slide><br>تحويل<slide><br>تلك<slide><br>إلى <$cdef(27)><fqty(2)><class><reftarid;4></color>!<clear><br><$voicel(1,8)><$motion(1,805)><$comeff(1,6)>هل تريدني أن أفعل ذلك؟"
+ },
+ {
+  "id": 92,
+  "ar": "<oneline><$voicel(1,6)><$motion(1,805)><$comeff(1,6)>أوه، تحتاج إلى<br><$cdef(27)><fqty(2)><class><reftarid;0></color>؟<clear><br><$voicel(1,7)><$emotion(1,14)>إذن ضع بعض<br><$cdef(27)><fqty(2)><class><refmateid;2></color><slide><br>في<slide><br><$cdef(27)><fqty(1)><reftable;1></color>!<clear><br><$voicel(1,10)><$motionoff(1,804)><$facial(1,4)><$comeff(1,10)>سأهتم بالأمر لاحقًا!"
+ },
+ {
+  "id": 93,
+  "ar": "<oneline><$voicel(1,3)><$motion(1,807)><$facial(1,9)><$comeff(1,4)>إن كنت سأصنع<br><$cdef(27)><fqty(2)><class><reftarid;0></color>،<slide><br>أحتاج إلى<slide><br><iart;1()><$cdef(27)><fqty(1)><class><reftable;1></color>...<clear><br><$voicel(1,5)><$motion(1,805)><$comeff(1,6)><$facial(1,1)>لذا أولًا، هل يمكنك تجهيز<br><iart;2()><$cdef(27)><fqty(1)><class><reftable;2></color><slide><$cdef(27)><br></color>لي،<slide><br>أرجوك<slide><br>أرجوك<slide><br>من فضلك؟"
+ },
+ {
+  "id": 94,
+  "ar": "<$voicel(1,7)><$emotion(1,39)>أوه، وامم، لست متأكدًا كيف، لكنني صنعت شيئًا<br>مذهلًا جدًا أيضًا! <$voicel(1,8)><$motion(1,803)><$comeff(1,9)>تفضل!"
+ },
+ {
+  "id": 95,
+  "ar": "<$voicel(1,5)><$emotion(1,14)>امم، في طريقي إلى هنا، وجدت هذا! <$voicel(1,8)><$motion(1,801)><$facial(1,4)><$comeff(1,10)>يمكنك أخذه<br>يا <$cdef(27)><pname;0></color>!"
+ },
+ {
+  "id": 96,
+  "ar": "<oneline><$voicel(1,8)><$emotion(1,14)>كنت أنتظرك يا <$cdef(27)><pname;0></color>!<clear><br><$voicel(1,9)><$motionoff(1,804)><$facial(1,4)><$comeff(1,10)>أتذكر <$cdef(27)><cdirbname;1><br></color>الذي<slide><br>أردته؟<slide><br>حسنًا... لقد انتهى!<clear><br><$voicel(1,8)><$emotion(1,8)>هيا! ألقِ نظرة!"
+ },
+ {
+  "id": 97,
+  "ar": "<$voicel(1,9)><$motion(1,803)><$facial(1,4)><$comeff(1,10)>هيهي... هيا، سأريك! تا-دااا!!!"
+ },
+ {
+  "id": 98,
+  "ar": "<$voicel(1,9)><$motion(1,805)><$facial(1,4)><$comeff(1,10)>هيهيييي! إذن، ما رأيك؟ رائع جدًا، صحيح؟!<clear><br><$voicel(1,7)><$emotion(1,8)>كلما احتجت إلى مهارة <$cdef(27)><$spwfull(1)></color> مجددًا، دعني<br>أساعدك، اتفقنا؟ ♪"
+ },
+ {
+  "id": 99,
+  "ar": "<oneline><$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,10)>مرحبًا يا <$cdef(27)><pname;0></color>! لنلعب لعبة<br>«انظر إلى هناك»!"
+ },
+ {
+  "id": 100,
+  "ar": "<$voicel(1,7)><$emotion(1,8)>حسنًا! لنبدأ!"
+ },
+ {
+  "id": 101,
+  "ar": "<$voicel(1,5)><$motion(1,807)><$comeff(1,3)>أوه، حسنًا! لنحاول في وقت آخر!"
+ },
+ {
+  "id": 102,
+  "ar": "<$comeff(1,19)><$facial(1,9)><$motion(1,802)><$voicel(1,6)>وااه، خسرت!<clear><br><$emotion(1,60)><$voicel(1,9)>لكنني لن أخسر في المرة القادمة! لنلعب مجددًا!"
+ },
+ {
+  "id": 103,
+  "ar": "<oneline><$emotion(1,38)><$voicel(1,9)>يبيي! لقد فزت!<clear><br><$comeff(1,9)><$facial(1,1)><$motion(1,806)><$voicel(1,7)>كان ذلك ممتعًا حقًا يا <$cdef(27)><pname;1></color>! لنلعب<br>مجددًا قريبًا!"
+ },
+ {
+  "id": 104,
+  "ar": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,10)>مرحبًا! هل تريد أن نلعب لعبة الاختباء معًا؟ اختبئ<br>وتسلل، وسأحاول أن أجدك!"
+ },
+ {
+  "id": 105,
+  "ar": "<$voicel(1,7)><$emotion(1,8)>ياي! أوووه، سأكون بارعًا جدًا في هذا!"
+ },
+ {
+  "id": 106,
+  "ar": "<$voicel(1,5)><$motion(1,807)><$comeff(1,3)>حسنًا! ربما في المرة القادمة!"
+ },
+ {
+  "id": 107,
+  "ar": "<$voicel(1,4)><$motion(1,807)><$facial(1,9)><$comeff(1,4)>أوه... لقد خسرت!"
+ },
+ {
+  "id": 108,
+  "ar": "<oneline><$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,10)>أنت بارع في هذا يا <$cdef(27)><pname;0></color>! إليك<br>جائزة<slide><br>لأنك<slide><br>هزمتني!"
+ },
+ {
+  "id": 109,
+  "ar": "<oneline><$emotion(1,50)><$voicel(1,7)>أتعرف ماذا! قررت أن أناديك<br><$cdef(27)><pname;1></color><slide><br>ابتداءً<slide><br>من الآن! ♪<clear><br><$emotion(1,38)><$voicel(1,9)>لأننا صديقان حميمان،<br>أليس كذلك يا <$cdef(27)><pname;3></color>؟"
+ },
+ {
+  "id": 110,
+  "ar": "<$voicel(1,7)><$motion(1,801)><$facial(1,4)><$comeff(1,10)>كنت رائعًا، صحيح؟ هيهي، كان ذلك ممتعًا جدًا جدًا!"
+ },
+ {
+  "id": 111,
+  "ar": "<$emotion(1,38)><$voicel(1,9)>ياي! سأبذل قصارى جهدي!"
+ },
+ {
+  "id": 112,
+  "ar": "<$comeff(1,3)><$motion(1,806)><$voicel(1,7)>حسنًا! ربما في المرة القادمة!"
+ },
+ {
+  "id": 113,
+  "ar": "<$voicel(1,3)><$motion(1,807)><$facial(1,9)><$comeff(1,4)>أوه لا! ماذا أفعل؟! <$cdef(27)><fqty(1)><$ifull(1325)><br></color>لا يعمل!<clear><br><$voicel(1,1)><$motion(1,802)><$comeff(1,17)>هل انقطعت الكهرباء أو شيء ما؟ يا للأسف... الآن<br>لا أستطيع استخدام مهارة <$cdef(27)><$spwfull(12)></color>!"
+ },
+ {
+  "id": 114,
+  "ar": "<oneline><$emotion(1,37)><$voicel(1,9)>تفضل، إليك<br><$cdef(27)><class><reftarid;0></color>!<slide><br>و<slide><br>سيكون<slide><br>هناك<slide><br>المزيد،<slide><br><$motion(1,806)><$voicel(1,8)>لذا<slide><br>تعال<slide><br>لتأخذ<slide><br>البقية<slide><br>لاحقًا!"
+ },
+ {
+  "id": 115,
+  "ar": "<oneline><$emotion(1,14)><$voicel(1,7)>أظن أنني أعرف أين يوجد <$cdef(27)><pksrchtar;0></color>! هل<br>تريد<slide><br>أن<slide><br>آخذك<slide><br>إلى<slide><br>هناك؟<clear><br><$emotion(1,38)><$voicel(1,10)>سأطير بنا إلى هناك مباشرة، هكذا: ززووووم!"
+ },
+ {
+  "id": 116,
+  "ar": "<oneline><$emotion(1,29)><$voicel(1,7)>أنا متأكد أن <$cdef(27)><pksrchtar;0></color> في بيته!<br>هل<slide><br>تريد<slide><br>أن<slide><br>آخذك<slide><br>إلى هناك؟<clear><br><$emotion(1,38)><$voicel(1,10)>سأطير بنا إلى هناك مباشرة، هكذا: ززووووم!"
+ },
+ {
+  "id": 117,
+  "ar": "<oneline><$voicel(1,5)><$motion(1,807)><$comeff(1,10)>آسف، لم أرَ <$cdef(27)><pksrchtar;0></color>! لكن<br>يمكنني<slide><br>أن<slide><br>آخذك<slide><br>إلى<slide><br>بيته<slide><br>إن<slide><br>أردت<slide><br>ذلك!<clear><br><$voicel(1,8)><$motion(1,805)><$comeff(1,6)>ما رأيك؟ هل نطير إلى هناك؟"
+ },
+ {
+  "id": 118,
+  "ar": "<oneline><$voicel(1,5)><$motion(1,805)><$comeff(1,6)><$cdef(27)><pksrchtar;0></color>؟ لم أره<br>في الجوار.<clear><br><$voicel(1,8)><$emotion(1,49)>ربما يعيش بعيدًا جدًا أو ما شابه؟"
+ },
+ {
+  "id": 119,
+  "ar": "<$emotion(1,37)><$voicel(1,9)>حسنًا! هل أنت مستعد؟ هيااا بنا!"
+ },
+ {
+  "id": 120,
+  "ar": "<$emotion(1,8)><$voicel(1,9)>وصلنا! ألم يكن ذلك رائعًا؟!"
+ },
+ {
+  "id": 121,
+  "ar": "<$comeff(1,14)><$motion(1,666)><$voicel(1,6)>أوه، يبدو أن <$cdef(27)><pksrchtar;0></color> ليس هنا."
+ },
+ {
+  "id": 122,
+  "ar": "<$emotion(1,14)><$voicel(1,8)>أأنت متأكد؟ حسنًا!"
+ },
+ {
+  "id": 123,
+  "ar": "<oneline><$emotion(1,14)><$voicel(1,7)>أظن أنني أعرف أين يوجد <$cdef(27)><pksrchtar;0></color>! هل<br>تريد<slide><br>أن<slide><br>آخذك<slide><br>إلى<slide><br>هناك؟<clear><br><$emotion(1,38)><$voicel(1,10)>يمكنني أخذنا بمهارة <$cdef(27)><$spwfull(35)></color> إلى هناك، هكذا: زاب!"
+ },
+ {
+  "id": 124,
+  "ar": "<oneline><$emotion(1,29)><$voicel(1,7)>أنا متأكد أن <$cdef(27)><pksrchtar;0></color> في بيته!<br>هل<slide><br>تريد<slide><br>أن<slide><br>آخذك<slide><br>إلى هناك؟<clear><br><$emotion(1,38)><$voicel(1,10)>يمكنني أخذنا بمهارة <$cdef(27)><$spwfull(35)></color> إلى هناك، هكذا: زاب!"
+ },
+ {
+  "id": 125,
+  "ar": "<oneline><$voicel(1,5)><$motion(1,807)><$comeff(1,10)>آسف، لم أرَ <$cdef(27)><pksrchtar;0></color>! لكن<br>يمكنني<slide><br>أن<slide><br>آخذك<slide><br>إلى<slide><br>بيته<slide><br>إن<slide><br>أردت<slide><br>ذلك!<clear><br><$voicel(1,8)><$motion(1,805)><$comeff(1,6)>ما رأيك؟ هل نستخدم مهارة <$cdef(27)><$spwfull(35)></color>؟"
+ },
+ {
+  "id": 126,
+  "ar": "<$emotion(1,8)><$voicel(1,9)>وصلنا! أراهن أنك تفاجأت من سرعة ذلك،<br>صحيح؟!"
+ },
+ {
+  "id": 127,
+  "ar": "<$emotion(1,14)><$voicel(1,6)>أأنت متأكد؟ حسنًا!"
+ },
+ {
+  "id": 128,
+  "ar": "<$voicel(1,7)><$emotion(1,14)><$cdef(27)><pksrchtar;0></color> في ذلك الاتجاه على الأرجح!"
+ },
+ {
+  "id": 129,
+  "ar": "<oneline><$voicel(1,7)><$emotion(1,14)>أنا متأكد أن <$cdef(27)><pksrchtar;0></color> في<br>بيته!"
+ },
+ {
+  "id": 130,
+  "ar": "<oneline><$comeff(1,3)><$facial(1,1)><$motion(1,805)><$voicel(1,6)><$cdef(27)><pksrchtar;0></color>؟ كلا، لم أره<br>اليوم!"
+ },
+ {
+  "id": 131,
+  "ar": "<oneline><$voicel(1,5)><$motion(1,805)><$comeff(1,6)><$cdef(27)><pksrchtar;0></color>؟ لم أره<br>في الجوار.<clear><br><$voicel(1,8)><$emotion(1,49)>ربما يعيش بعيدًا جدًا أو ما شابه!"
+ },
+ {
+  "id": 132,
+  "ar": "<$comeff(1,6)><$motion(1,666)><$voicel(1,5)>هل تبحث عن أحد يا <$cdef(27)><pname;0></color>؟"
+ },
+ {
+  "id": 133,
+  "ar": "<$voicel(1,3)><$emotion(1,14)>أوه، حقًا؟ يبدو أنني ارتبكت فقط!"
+ },
+ {
+  "id": 134,
+  "ar": "<oneline><$comeff(1,10)><$motion(1,803)><$voicel(1,7)><$cdef(27)><pksrchtar;0></color>؟ أين يمكن أن يكون؟<br>...لا أعرف!"
+ },
+ {
+  "id": 135,
+  "ar": "<$voicel(1,1)><$motion(1,807)><$facial(1,9)><$comeff(1,7)>ما مدى راحة بيتي؟ امم... ربما <$cdef(27)><flow><$stflevel;0(1)></color>؟"
+ },
+ {
+  "id": 136,
+  "ar": "<$voicel(1,5)><$emotion(1,14)>ما مدى راحة بيتي؟ هممم... أظنه<br><$cdef(27)><flow><$stflevel;0(2)></color> نوعًا ما."
+ },
+ {
+  "id": 137,
+  "ar": "<$voicel(1,5)><$motion(1,803)><$facial(1,4)><$comeff(1,9)>ما مدى راحة بيتي؟ أظنه <$cdef(27)><flow><$stflevel;0(3)></color>!"
+ },
+ {
+  "id": 138,
+  "ar": "<$voicel(1,7)><$motion(1,801)><$facial(1,4)><$comeff(1,21)>ما مدى راحة بيتي؟ إنه <$cdef(27)><flow><$stflevel;0(4)></color>!"
+ },
+ {
+  "id": 139,
+  "ar": "<$voicel(1,9)><$motion(1,801)><$facial(1,5)><$comeff(1,8)>ما مدى راحة بيتي؟ دعني أخبرك،<br>إنه <$cdef(27)><flow><$stflevel;0(5)></color>!<clear><br><$voicel(1,8)><$motion(1,803)><$facial(1,4)><$comeff(1,10)>أريد العيش هنا إلى الأبد والأبد والأبد!"
+ },
+ {
+  "id": 140,
+  "ar": "<$voicel(1,8)><$motion(1,803)><$facial(1,4)><$comeff(1,10)>أحب هذا أكثر من قبل!"
+ },
+ {
+  "id": 141,
+  "ar": "<$voicel(1,9)><$emotion(1,8)>هذا أجمل بكثير من قبل! شكرًا لك!"
+ },
+ {
+  "id": 142,
+  "ar": "<oneline><$voicel(1,5)><$motion(1,805)><$comeff(1,14)>أظن أن <$cdef(27)><fqty(1)><class><aireactp;0><br></color>ربما<slide><br>يكون<slide><br>صغيرًا<slide><br>بعض<slide><br>الشيء<slide><br>بالنسبة<slide><br>إليّ<slide><br>حقًا...<clear><br><$voicel(1,4)><$motion(1,807)><$facial(1,9)><$comeff(1,4)>آسف... ليته كان أكبر قليلًا!"
+ },
+ {
+  "id": 143,
+  "ar": "<oneline><$voicel(1,7)><$emotion(1,8)>أوووه، شكرًا لك على<br><$cdef(27)><fqty(1)><class><aireactp;0></color>!<slide><br>أنا<slide><br>سعيد جدًا!"
+ },
+ {
+  "id": 144,
+  "ar": "<$comeff(1,7)><$facial(1,9)><$motion(1,807)><$voicel(1,2)>حسنًا، لست في البيت الآن لذا أتذكر فقط،<br>لكن ربما...<$cdef(27)><flow><$stflevel;0(1)></color>؟"
+ },
+ {
+  "id": 145,
+  "ar": "<$comeff(1,3)><$facial(1,1)><$motion(1,805)><$voicel(1,6)>حسنًا، لست في البيت الآن لذا أتذكر فقط،<br>لكن أظنه على الأرجح <$cdef(27)><flow><$stflevel;0(2)></color>؟"
+ },
+ {
+  "id": 146,
+  "ar": "<$comeff(1,9)><$facial(1,1)><$motion(1,661)><$voicel(1,7)>حسنًا، لست في البيت الآن لذا أتذكر فقط،<br>لكنني سأقول...<$cdef(27)><flow><$stflevel;0(3)></color>!"
+ },
+ {
+  "id": 147,
+  "ar": "<$comeff(1,21)><$facial(1,4)><$motion(1,661)><$voicel(1,10)>حسنًا، لست في البيت الآن لذا أتذكر فقط،<br>لكنني أقول إنه <$cdef(27)><flow><$stflevel;0(4)></color>!"
+ },
+ {
+  "id": 148,
+  "ar": "<$comeff(1,14)><$facial(1,1)><$motion(1,666)><$voicel(1,6)>حسنًا، لست في البيت الآن لذا أتذكر فقط،<br>لكن...<clear><br><$comeff(1,8)><$facial(1,4)><$motion(1,801)><$voicel(1,9)>إنه <$cdef(27)><flow><$stflevel;0(5)></color>! أحب بيتي كثيرًا! ♪"
+ },
+ {
+  "id": 149,
+  "ar": "<$voicel(1,8)><$motion(1,803)><$facial(1,4)><$comeff(1,10)>أظنه أفضل من قبل!"
+ },
+ {
+  "id": 150,
+  "ar": "<$voicel(1,9)><$emotion(1,39)>صار أجمل بكثير الآن! شكرًا لك!"
+ },
+ {
+  "id": 151,
+  "ar": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,10)>بيتي في هذا الاتجاه! هيا بنا!"
+ },
+ {
+  "id": 152,
+  "ar": "<$emotion(1,14)><$voicel(1,7)>بيتي في ذلك الاتجاه.<clear><br><$comeff(1,7)><$facial(1,9)><$motion(1,807)><$voicel(1,5)>لكنني لا أستطيع الذهاب معك الآن لأنني مشغول.<br>آسف!"
+ },
+ {
+  "id": 153,
+  "ar": "<$emotion(1,8)><$voicel(1,9)>ماذا؟ حقًا؟! ياااي! أعدك أنني سأعتني به جيدًا!"
+ },
+ {
+  "id": 154,
+  "ar": "<oneline><$emotion(1,8)><$voicel(1,9)><fcap><iart;0()><$cdef(27)><fqty(1)><class><stfrevp;0></color>؟! ياااي!<br>شكرًا<slide><br>لك<slide><br>جزيلًا<slide><br>جدًا!<slide><br>أنا<slide><br>سعيد جدًا!"
+ },
+ {
+  "id": 155,
+  "ar": "<$comeff(1,14)><$facial(1,1)><$motion(1,666)><$voicel(1,6)>ما مدى راحتي؟ هممم... حسنًا، بدأت العيش للتو<br>في بيتي، <$voicel(1,5)>لذا لست متأكدًا بعد.<clear><br><$comeff(1,3)><$facial(1,1)><$motion(1,661)><$voicel(1,8)>اسألني مجددًا لاحقًا!"
+ },
+ {
+  "id": 156,
+  "ar": "<oneline><$comeff(1,14)><$facial(1,9)><$motion(1,805)><$voicel(1,5)>امم، أنا آسف حقًا، لكن<br><$cdef(27)><fqty(2)><class><stfrevp;0></color><slide><br><$emotion(1,41)><$voicel(1,4)>ليست<slide><br>حقًا<slide><br>المفضلة لدي...<clear><br><$comeff(1,6)><$facial(1,1)><$motion(1,803)><$voicel(1,6)>هل يمكنك أن تستبدل ما لدي بشيء آخر؟"
+ },
+ {
+  "id": 157,
+  "ar": "<oneline><$voicel(1,5)><$motion(1,805)><$comeff(1,14)><$cdef(27)><fqty(1)><class><stfrevp;0></color> قد<br>يكون<slide><br>صغيرًا<slide><br>قليلًا<slide><br>جدًا<slide><br>بالنسبة<slide><br>إليّ...<clear><br><$voicel(1,4)><$motion(1,807)><$facial(1,9)><$comeff(1,4)>آسف، لكن هل يمكنني الحصول على شيء أكبر؟"
+ },
+ {
+  "id": 158,
+  "ar": "<oneline><$voicel(1,5)><$emotion(1,14)>أنت دائمًا تلتقط الكثير جدًا من<br>الأشياء يا <$cdef(27)><pname;0></color>!<clear><br><$voicel(1,3)><$motion(1,805)><$comeff(1,6)>هل تخطئ أحيانًا وتلتقط بعض القمامة أو<br>ما شابه؟ أراهن أنني سأفعل!"
+ },
+ {
+  "id": 159,
+  "ar": "<oneline><$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,9)><$pkcry;0(1,2)>! ♪ سأراك اليوم أيضًا يا<br><$cdef(27)><pname;1></color>؟!<clear><br><$voicel(1,10)><$motionoff(1,804)><$facial(1,4)>هذا يسعدني جدًا جدًا! <wait(0.4)><$voicel(1,8)><$motion(1,801)><$facial(1,5)><$comeff(1,10)>أعني، كنت سعيدًا<br>أصلًا، لكنني الآن أسعد بكثير!"
+ },
+ {
+  "id": 160,
+  "ar": "<oneline><$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,10)>سعيد جدًا لأننا تمكنّا من بناء<br><$cdef(27)><asnbname;0></color>!<clear><br><$voicel(1,9)><$emotion(1,8)>كان رائعًا جدًا عندما انتهينا، لأننا شعرنا جميعًا<br>بالسعادة معًا!"
+ },
+ {
+  "id": 161,
+  "ar": "<oneline><$voicel(1,7)><$emotion(1,14)><$cdef(27)><rctbname;0></color> هذا<br>رائع جدًا!<clear><br><$voicel(1,9)><$motion(1,801)><$comeff(1,1)><$comeff(1,21)>أستطيع أن أرى كم الحب الذي وضعه الجميع فيه عندما<br>صنعوه!"
+ },
+ {
+  "id": 162,
+  "ar": "<oneline><$voicel(1,5)><$emotion(1,14)>أوه، رؤيتك ذكّرتني يا <$cdef(27)><pname;0></color>!<clear><br><$voicel(1,7)><$motion(1,801)><$facial(1,4)><$comeff(1,10)>كيف حال <$cdef(27)><acqpname;1></color>؟ أتمنى أن<br>نقضي<slide><br>الوقت<slide><br>معًا مجددًا يومًا ما!"
+ },
+ {
+  "id": 163,
+  "ar": "<oneline><$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,3)>واو، تبدو رائعًا جدًا جدًا<br>هكذا يا <$cdef(27)><pname;0></color>!<clear><br><$voicel(1,10)><$facial(1,4)><$comeff(1,10)>مهما تحولت بمهارة <$cdef(27)><flow><$spwfull(36)></color>، تبدو دائمًا<br>مذهلًا!<clear><br><$voicel(1,8)><$emotion(1,8)>أرني الكثير من الأشكال مستقبلًا، اتفقنا؟"
+ },
+ {
+  "id": 164,
+  "ar": "<oneline><$voicel(1,5)><$emotion(1,14)>أوه، تبدو مختلفًا قليلًا عن قبل يا<br><$cdef(27)><pname;0></color>!<clear><br><$voicel(1,7)><$motionoff(1,804)><$facial(1,4)><$comeff(1,21)>هيهي! ظننت أنني لن ألاحظ، صحيح؟"
+ },
+ {
+  "id": 165,
+  "ar": "<$voicel(1,8)><$motionoff(1,804)><$facial(1,4)><$comeff(1,10)>المحيط ضخم جدًا جدًا جدًا!<clear><br><$voicel(1,5)><$comeff(1,14)><$motion(1,805)><$facial(1,1)>كل هذا الماء المالح... <wait(0.4)><$voicel(1,8)><$motion(1,803)><$comeff(1,6)>كيف برأيك جمعوه<br>كله؟"
+ },
+ {
+  "id": 166,
+  "ar": "<$voicel(1,5)><$motion(1,803)><$comeff(1,6)>أكان <$cdef(27)>البروفيسور Tangrowth</color> ذكيًا دائمًا؟ إنه يعرف<br>كل شيء!<clear><br><$voicel(1,8)><$motion(1,805)><$comeff(1,14)>لم يكن يعرف كل ذلك عندما كان صغيرًا، صحيح؟<clear><br><$voicel(1,3)><$motion(1,807)><$facial(1,9)><$comeff(1,17)>في الحقيقة... هممم... لا أستطيع حتى أن أتخيل<br><$cdef(27)>البروفيسور Tangrowth</color> صغيرًا!"
+ },
+ {
+  "id": 167,
+  "ar": "<oneline><$comeff(1,14)><$motion(1,666)><$voicel(1,5)>بما أننا نعيش معًا، فهذا يعني أنك غدًا، و<br>بعد غد، واليوم الذي يليه...<clear><br><$emotion(1,29)><$voicel(1,8)>ستكون قريبًا مني، صحيح يا <$cdef(27)><pname;0></color>؟<br><$emotion(1,8)><$voicel(1,10)>هذا<slide><br>يجعلني<slide><br>سعيدًا<slide><br>جدًا!"
+ },
+ {
+  "id": 168,
+  "ar": "<$emotion(1,60)><$voicel(1,9)>إن شعرت يومًا بالكآبة والحزن، فتعال<br>وابحث عني!<clear><br><$motion(1,806)><$voicel(1,7)>سأغني لك أغنية مرحة حتى يتحول مزاجك الكئيب<br><$emotion(1,8)><$voicel(1,10)>إلى فرح وبريق وياااي! ♪"
+ },
+ {
+  "id": 169,
+  "ar": "<$comeff(1,14)><$motion(1,827)><$voicel(1,7)>الجميع يقولون إنهم يحبون رؤية الابتسامات، لكن<br>أتعرف أي وجه أحب رؤيته أكثر؟<clear><br><$voicel(1,6)>عندما أمازح أحدهم ويبدو<br>متفاجئًا تمامًا،<$emotion(1,38)><$voicel(1,10)>هذا هو الأفضل! هيهيهي..."
+ },
+ {
+  "id": 170,
+  "ar": "<$voicel(1,5)><$motion(1,805)><$comeff(1,3)>أحيانًا، يغفو Pokémon آخر وهو مدفون في<br>فرائي.<clear><br><$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,10)>يبدو دائمًا مرتاحًا جدًا، فأحاول البقاء ساكنًا حتى<br>يستيقظ! <$voicel(1,10)><$emotion(1,39)>ألست لطيفًا؟"
+ },
+ {
+  "id": 171,
+  "ar": "<$comeff(1,3)><$facial(1,4)><$motion(1,806)><$voicel(1,9)>يومًا ما، أريد أن أكبر كثيرًا حتى ألمس السماء!<clear><br><$comeff(1,10)><$facial(1,1)><$motion(1,661)><$voicel(1,7)>أما الآن فسأستمر في التمدد إلى أعلى ما أستطيع!"
+ },
+ {
+  "id": 172,
+  "ar": "<oneline><$comeff(1,14)><$motion(1,803)><$voicel(1,5)>أتعرف، أنا و<$cdef(27)><$tonepk;0(10)></color> مختلفان<br>جدًا، فشخصيتانا<slide><br>متعاكستان<slide><br>تمامًا<slide><br>كالأضداد!<clear><br><$emotion(1,8)><$voicel(1,10)>لكن في الحقيقة، أحب هذا فينا نوعًا ما!<clear><br><$comeff(1,6)><$facial(1,4)><$motion(1,666)><$voicel(1,7)>تُرى ما رأيه بي... أوه، صرت<br>متوترًا جدًا!"
+ },
+ {
+  "id": 173,
+  "ar": "<oneline><$comeff(1,21)><$facial(1,4)><$motion(1,801)><$voicel(1,9)><$cdef(27)><$tonepk;0(14)></color> تبدو دائمًا مذهلة!<br>إنها جميلة ورائعة و... مدهشة!<clear><br><$comeff(1,10)><$facial(1,4)><$motion(1,805)><$voicel(1,7)>هل تظن أنها ستنزعج إن بدأت أناديها<br>أختي الكبرى؟!"
+ },
+ {
+  "id": 174,
+  "ar": "<$emotion(1,39)><$voicel(1,7)>أرأيت هذه المطرقة التي صنعتها؟ تعبت عليها كثيرًا!<clear><br><$voicel(1,6)>لا يهم مدى صلابة الشيء! أقول فقط <wait(0.5)><$emotion(1,414)><$voicel(1,9)>«هيا!»<br>وأحطمه!"
+ },
+ {
+  "id": 175,
+  "ar": "<$emotion(1,55)><$voicel(1,3)>Pokémon ذوو حاسة الشم القوية لا يقتربون مني<br>كثيرًا عادة.<clear><br><$emotion(1,14)><$voicel(1,5)>يقولون إن رائحتي جميلة... لكنها قوية<br>جدًا! <$emotion(1,59)><$voicel(1,7)>هذا يشعرني بالوحدة قليلًا..."
+ },
+ {
+  "id": 176,
+  "ar": "<$emotion(1,37)><$voicel(1,7)>مرحبًا، امم، اسمع! <$cdef(27)><gevcmainpk;0></color> متحمس جدًا بشأن<br>شيء ما الآن! <$comeff(1,6)><$motion(1,666)><$voicel(1,6)>هل تعرف السبب؟ أنا فضولي جدًا!"
+ },
+ {
+  "id": 177,
+  "ar": "<$emotion(1,38)><$voicel(1,10)>...حسنًا، انتهيت!<clear><br><$emotion(1,29)><$voicel(1,7)>كيف كان تقليدي؟ هل عرفت من كنت<br>أقلد؟"
+ },
+ {
+  "id": 178,
+  "ar": "<$comeff(1,20)><$facial(1,4)><$motion(1,801)><$voicel(1,9)>يبيي! هذا صحيح تمامًا! لا بد أن تقليدي كان رائعًا<br>جدًا، صحيح؟!"
+ },
+ {
+  "id": 179,
+  "ar": "<oneline><$comeff(1,1)><$motion(1,806)><$voicel(1,9)>كلا! الإجابة الصحيحة هي <$cdef(27)><apfquizpk;0(0)></color>.<br><$emotion(1,8)><$voicel(1,8)>التقليد<slide><br>صعب<slide><br>قليلًا،<slide><br>لكنه<slide><br>يبقى<slide><br>ممتعًا<slide><br>جدًا<slide><br>رغم ذلك!"
+ },
+ {
+  "id": 180,
+  "ar": "<oneline><$voicel(1,3)><$motion(1,666)><$facial(1,2)><$comeff(1,6)><$pkcry;0(1,3)>؟ <$cdef(27)><fqty(1)><$ifull(432)></color>؟ أظن أنني أستطيع<br>الاحتفاظ<slide><br>به<slide><br>الآن!"
+ },
+ {
+  "id": 181,
+  "ar": "<$voicel(1,10)><$emotion(1,39)>أوووه! <$cdef(27)><fqty(1)><$ifull(432)></color> هذا يلمع! <$emotion(1,37)><$voicel(1,5)>لا أعرف ماذا يعني،<br>لذا سأعيده إليك يا <$cdef(27)><pname;0></color>!"
+ },
+ {
+  "id": 182,
+  "ar": "<$comeff(1,11)><$facial(1,13)><$motion(1,803)><$voicel(1,9)>إيب! واو يا <$cdef(27)><pname;0></color>! لقد أفزعتني!<clear><br><$comeff(1,9)><$facial(1,4)><$motion(1,801)><$voicel(1,7)>لقد أمسكت بي، لذا أظن أنك فزت! تفضل،<br>خذ <$cdef(27)><fqty(1)><$ifull(532)></color>!"
+ },
+ {
+  "id": 183,
+  "ar": "<$voicel(1,8)><$emotion(1,14)>حقًا؟ أريد الذهاب!<clear><br><$voicel(1,5)><$motion(1,805)><$comeff(1,6)>لكن ألا يوجد Pokémon كثيرون غيري يريدون<br>الذهاب أيضًا؟<clear><br><$voicel(1,7)><$emotion(1,8)>يمكنك دعوتي في وقت آخر! أستطيع انتظار دوري!"
+ },
+ {
+  "id": 184,
+  "ar": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,10)>سأعود إلى البيت لليوم! شكرًا جزيلًا على دعوتك!<br><$voicel(1,10)><$emotion(1,8)>أنا سعيد جدًا لأنني أتيت إلى هنا!"
+ },
+ {
+  "id": 185,
+  "ar": "<$voicel(1,8)><$emotion(1,14)>ماذا؟ أجل، أريد الذهاب!<clear><br><$voicel(1,9)><$emotion(1,8)>سأراك هناك لاحقًا! هيهي! لا أطيق الانتظار!"
+ },
+ {
+  "id": 186,
+  "ar": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,10)>مهلًا يا <$cdef(27)><pname;0></color>! أريد الذهاب أيضًا!"
+ },
+ {
+  "id": 187,
+  "ar": "<$comeff(1,3)><$motion(1,806)><$voicel(1,7)>أوه، حسنًا! لكن خذني معك في وقت آخر من فضلك!"
+ },
+ {
+  "id": 188,
+  "ar": "<oneline><$emotion(1,8)><$voicel(1,9)>كانت النزهة معك ممتعة جدًا جدًا يا<br><$cdef(27)><pname;0></color>! ♪<slide><br><$emotion(1,60)><$voicel(1,8)>أرجوك<slide><br>خذني<slide><br>معك<slide><br>مرة أخرى!"
+ },
+ {
+  "id": 189,
+  "ar": "<oneline><$comeff(1,5)><$facial(1,1)><$motion(1,803)><$voicel(1,7)>مرحبًا يا <$cdef(27)><pname;0></color>! لقد وصلت! هل<br>تتذكرني<slide><br>يا ترى؟<slide><br><$comeff(1,6)><$voicel(1,8)>أنا صديق<slide><br><$cdef(27)><nowner;2></color>!<clear><br><$comeff(1,10)><$motion(1,801)><$voicel(1,9)>جئت كل هذه المسافة لألعب!<clear><br><$comeff(1,14)><$facial(1,1)><$motion(1,805)><$voicel(1,6)>إذن هنا تعيش؟ <$comeff(1,9)><$voicel(1,10)>يبدو مكانًا<br>رائعًا جدًا!"
+ },
+ {
+  "id": 190,
+  "ar": "<$voicel(1,5)><$comeff(1,14)><$motion(1,666)>مرحبًا... امم، ماذا كانت التحية؟ أوه، صحيح! سعيد<br>بلقائك!<clear><br><$voicel(1,8)><$emotion(1,29)>امم، صحيح؟<clear><br><$voicel(1,5)><$comeff(1,4)><$motion(1,807)>إذن، امم... <$voicel(1,4)><$emotion(1,29)>هل تريد أن نصبح، أتعرف، أصدقاء؟"
+ },
+ {
+  "id": 191,
+  "ar": "<oneline><$voicel(1,5)><$comeff(1,6)><$motion(1,666)>ماذا...؟ مهلًا، أنت لست <$cdef(27)><nowner;1></color>... امم،<br>أليس كذلك؟<clear><br><$voicel(1,7)><$emotion(1,49)>حسنًا، أنا صديق <$cdef(27)><nowner;3></color>. <$voicel(1,6)><$comeff(1,9)>سعيد<br>جدًا<slide><br>بلقائك!"
+ },
+ {
+  "id": 192,
+  "ar": "<oneline><$voicel(1,5)><$comeff(1,6)><$motion(1,666)>ماذا...؟ مهلًا، أنت لست <$cdef(27)><acqpname;1></color>... امم، أليس<br>كذلك؟<clear><br><$voicel(1,7)><$emotion(1,49)>حسنًا، أنا صديق <$cdef(27)><acqpname;3></color>. <$voicel(1,6)><$comeff(1,9)>سعيد<br>جدًا<slide><br>بلقائك!"
+ },
+ {
+  "id": 193,
+  "ar": "<$voicel(1,5)><$comeff(1,6)><$motion(1,666)>ماذا...؟ مهلًا، أنت لست صديقي... امم، أليس كذلك؟<clear><br><$voicel(1,7)><$emotion(1,49)>حسنًا، أنت تشبهه. سعيد بلقائك!"
+ },
+ {
+  "id": 194,
+  "ar": "<$voicel(1,7)><$comeff(1,8)><$facial(1,4)><$motion(1,806)>بيتي رائحته طيبة جدًا... رائحة سعيدة جدًا!"
+ },
+ {
+  "id": 195,
+  "ar": "<$comeff(1,13)><$voicel(1,7)><$motion(1,803)><$facial(1,4)>أوه... مرحبًا يا <$cdef(27)><pname;0></color>! التقينا مجددًا. ♪"
+ },
+ {
+  "id": 196,
+  "ar": "<$voicel(1,7)><$emotion(1,14)>مرحبًا، لا أظن أنني رأيتك من قبل... أليس كذلك؟<clear><br><$voicel(1,5)><$comeff(1,14)><$motion(1,805)>هل كنت تتمشى هنا فقط؟ ربما<br>عليّ أن أفعل ذلك أيضًا..."
+ },
+ {
+  "id": 197,
+  "ar": "<$comeff(1,17)><$facial(1,14)><$voicel(1,5)>أحيانًا أطفو فقط وأترك الماء يأخذني<br>إلى حيث يشاء.<clear><br>عندما أفعل ذلك، يبدو أن اليوم ينتهي بسرعة كبيرة..."
+ },
+ {
+  "id": 198,
+  "ar": "<$voicel(1,7)><$emotion(1,8)>مرحبًا، ألا تظن أن فرائي، امم، منفوش جدًا؟ أراهن أنه<br>صحي جدًا لأنني أنام كثيرًا."
+ },
+ {
+  "id": 199,
+  "ar": "<$voicel(1,5)><$comeff(1,14)><$motion(1,666)>*تنهيدة* ليتني أكبر بسرعة أكبر...<clear><br><$voicel(1,7)><$emotion(1,6)>أراهن أنني سأصبح، أتعرف، رائعًا ومذهلًا وكل شيء.<br>هيهي..."
+ },
+ {
+  "id": 200,
+  "ar": "<oneline><$voicel(1,7)><$emotion(1,8)>كلما رأيت<br><$cdef(27)><fqty(1)><class><usingp;0></color> هذا،<slide><$cdef(27)><br></color>فإنه<slide><br>يجعلني<slide><br>سعيدًا<slide><br>جدًا...<slide><br>وكأنني<slide><br>أنظر<slide><br>إلى<slide><br>ثمرة<slide><br>تعبي<slide><br>أنا<slide><br>نفسي...<clear><br>وهذا صحيح على ما أظن!"
+ },
+ {
+  "id": 201,
+  "ar": "<oneline><$voicel(1,7)><$emotion(1,49)><$cdef(27)><fqty(1)><class><usingp;0></color> هذا رائع<br>جدًا...<slide><br>أستطيع<slide><br>أن<slide><br>أرى<slide><br>أن<slide><br>الجميع<slide><br>تعبوا عليه!"
+ },
+ {
+  "id": 202,
+  "ar": "<$comeff(1,21)><$facial(1,4)><$motion(1,805)><$voicel(1,7)>أشعر أن حواسي تصبح حادة جدًا عندما أبحث<br>عن الكنز...<clear><br><$comeff(1,6)><$facial(1,1)><$motion(1,803)><$voicel(1,5)>أم أنني أتخيل ذلك فقط؟"
+ },
+ {
+  "id": 203,
+  "ar": "<$comeff(1,9)><$facial(1,4)><$motion(1,661)><$voicel(1,7)>سحق التوت ممتع. والألوان التي يصنعها جميلة<br>أيضًا... هيهي..."
+ },
+ {
+  "id": 204,
+  "ar": "<$comeff(1,3)><$facial(1,1)><$motion(1,806)><$voicel(1,8)><$pkcry;0(1,2)>! أستطيع التعامل مع القمامة بمهارة <$cdef(27)><$spwfull(17)></color>، أتعرف..."
+ },
+ {
+  "id": 205,
+  "ar": "<$comeff(1,3)><$facial(1,1)><$motion(1,805)><$voicel(1,5)>متى أردت هدم شيء ما، أخبرني<br>وسأتولاه، امم... بمهارة <$cdef(27)><$spwfull(33)></color>."
+ },
+ {
+  "id": 206,
+  "ar": "<$comeff(1,13)><$facial(1,4)><$motion(1,666)><$voicel(1,7)>أستطيع الوصول إلى أي مكان في لمح البصر.<clear><br><$comeff(1,3)><$facial(1,1)><$motion(1,661)><$voicel(1,8)>أوه... أخبرني إن كان هناك شخص تريد<br>الذهاب لرؤيته..."
+ },
+ {
+  "id": 207,
+  "ar": "<oneline><$voicel(1,7)><$emotion(1,14)><$facial(1,4)>أوه، صباح الخير! ♪ هل، امم، استيقظت<br>للتو يا <$cdef(27)><pname;0></color>؟"
+ },
+ {
+  "id": 208,
+  "ar": "<$voicel(1,5)><$emotion(1,1)>آه... يوم رائع آخر لعدم فعل أي شيء. ♪"
+ },
+ {
+  "id": 209,
+  "ar": "<oneline><$voicel(1,7)><$emotion(1,8)>مرحبًا يا <$cdef(27)><pname;0></color>! هيهي، أنا سعيد<br>برؤيتك<slide><br>جدًا... ♪"
+ },
+ {
+  "id": 210,
+  "ar": "<$voicel(1,5)><$emotion(1,49)>انتهى الصباح بالفعل؟ أوه... أظن أنني سأسترخي بعد<br>الظهر. ♪"
+ },
+ {
+  "id": 211,
+  "ar": "<$voicel(1,5)><$emotion(1,14)>واو. حلّ المساء بالفعل؟ الشمس رحلت بسرعة كبيرة..."
+ },
+ {
+  "id": 212,
+  "ar": "<$voicel(1,5)><$motion(1,803)><$comeff(1,14)><$facial(1,4)>لا أعرف لماذا، لكن النظر إلى سماء المساء يجعلني أشعر<br>بشيء، امم... من الدفء والراحة."
+ },
+ {
+  "id": 213,
+  "ar": "<$voicel(1,5)><$emotion(1,14)><$facial(1,4)>مرحبااا يا <$cdef(27)><pname;0></color>. هل تقضي ليلة جميلة؟"
+ },
+ {
+  "id": 214,
+  "ar": "<$voicel(1,5)><$comeff(1,14)><$motion(1,806)>الليلة هادئة جدًا. مثالية للسرحان... ♪"
+ },
+ {
+  "id": 215,
+  "ar": "<$voicel(1,5)><$comeff(1,14)><$motion(1,803)>كنت فقط، امم... سارحًا قليلًا."
+ },
+ {
+  "id": 216,
+  "ar": "<$voicel(1,7)><$emotion(1,29)><$facial(1,4)>مرحبًا! هل تريد أن، امم... ندردش؟"
+ },
+ {
+  "id": 217,
+  "ar": "<$voicel(1,5)><$comeff(1,10)><$facial(1,4)><$motion(1,803)>واو... أنت تمشي بسرعة، صحيح يا <$cdef(27)><pname;0></color>؟"
+ },
+ {
+  "id": 218,
+  "ar": "<oneline><$voicel(1,5)><$motion(1,803)><$comeff(1,6)>مرحبًا يا <$cdef(27)><pname;0></color>، امم... <wait(0.75)>امم، ماذا كنت<br>سأقول<slide><br>مجددًا؟"
+ },
+ {
+  "id": 219,
+  "ar": "<$voicel(1,5)><$emotion(1,49)>ربما سأحاول، امم... أن أعمل بجد أكثر قليلًا، مثلك<br>تمامًا يا <$cdef(27)><pname;1></color>."
+ },
+ {
+  "id": 220,
+  "ar": "<$voicel(1,5)><$motion(1,661)><$facial(1,4)><$comeff(1,9)>كلما مضغت التوتة أكثر، صارت، امم... أحلى."
+ },
+ {
+  "id": 221,
+  "ar": "<$voicel(1,5)><$emotion(1,39)>تحوّلك يبدو رائعًا دائمًا، لكنه<br>رائع بشكل خاص اليوم يا <$cdef(27)><pname;0></color>."
+ },
+ {
+  "id": 222,
+  "ar": "<$voicel(1,7)><$emotion(1,8)>أنا سعيد جدًا لأنني أعيش هنا... كل يوم، امم، ممتع حقًا! ♪"
+ },
+ {
+  "id": 223,
+  "ar": "<$voicel(1,5)><$emotion(1,39)>*شم شم* آه... رائحتك، لا أعرف، مريحة حقًا يا<br><$cdef(27)><pname;0></color>. ♪"
+ },
+ {
+  "id": 224,
+  "ar": "<$voicel(1,5)><$motion(1,666)><$comeff(1,6)>كل البشر الذين كانوا هنا من قبل... أين ذهبوا؟<br>هل معهم Pokémon؟ هممم..."
+ }
+]
