@@ -11,6 +11,10 @@ from arabic_glyphs import Renderer, target_codepoints, to_cell
 from c0text import C0
 from g1n import G1N
 from kt_pack import pack_entry_raw, repoint
+from PIL import Image
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "tex_work"))
+import g1t
+from res import inflate
 
 ROOT = Path(__file__).resolve().parent.parent
 ORIG = ROOT / "original"
@@ -19,8 +23,16 @@ import os
 MOD = Path(os.environ.get("POKOPIA_MOD_DIR", "D:/Games/Pokemon Pokopia/user/load/0400A3A01EE4C000/Arabic/romfs"))
 FONTS = (0x4b9d5e80, 0x8207d16b, 0xcd2c353f, 0x881d39a5, 0x7abb6ce2)
 HOST_FDATA = "0x4b13d561.fdata"
+# Replaced textures: (resource fid, PNG drawn at the original size). Originals come from
+# original/textures/<fid>.idrk (raw IDRK entry read from the user's own game).
+TEXTURES = [(0x79c6dd0e, "assets/title_ar.png")]   # title logo + "press A"
 HOST_INDEX = 0x10          # root.rdx slot of 0x4b13d561
 PPEM = {64: 58, 32: 29}    # Arabic alef ~ Latin cap height
+
+
+def inflate_entry(entry: bytes) -> bytes:
+    esize, dsize, usize = struct.unpack_from("<QQQ", entry, 8)
+    return inflate(entry, usize)
 
 
 def visual(text: str) -> str:
@@ -55,6 +67,14 @@ def build_fonts():
         host += b"\0" * (offset - len(host)) + entry
         repoint(rdb, fid, HOST_INDEX, offset, len(entry), len(data), uncompressed=True)
         print(f"font {fid:08x}: {len(data)} bytes, entry {len(entry)} at {offset}")
+    for fid, png in TEXTURES:
+        raw = (ORIG / "textures" / f"{fid:08x}.idrk").read_bytes()
+        data = g1t.encode(inflate_entry(raw), 0, Image.open(ROOT / png).convert("RGBA"))
+        entry = pack_entry_raw(raw, data)
+        offset = (len(host) + 15) // 16 * 16
+        host += b"\0" * (offset - len(host)) + entry
+        repoint(rdb, fid, HOST_INDEX, offset, len(entry), len(data), uncompressed=True)
+        print(f"texture {fid:08x}: {len(data)} bytes at {offset}")
     host += b"\0" * ((-len(host)) % 16)
     out = MOD / KT
     out.mkdir(parents=True, exist_ok=True)

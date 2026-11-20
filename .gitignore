@@ -24,3 +24,9 @@ __pycache__/
 # Scratch images
 glyph_*.png
 preview_line.png
+
+# Texture work: game-derived files stay local
+tex_work/*
+!tex_work/g1t.py
+!tex_work/res.py
+!tex_work/make_title.py

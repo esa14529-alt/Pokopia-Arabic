@@ -26,11 +26,15 @@ COMPRESSED_FLAG = 0x00400000
 
 
 def pack_entry_raw(original_entry: bytes, data: bytes) -> bytes:
-    """Rebuild an IDRK entry storing data uncompressed (no chunk tags needed)."""
-    if struct.unpack_from("<I", original_entry, 0x20)[0] != 0:
-        raise ValueError("entry has a parameter block; not supported")
-    header = bytearray(original_entry[:0x38])
-    struct.pack_into("<QQQ", header, 8, 0x38 + len(data), len(data), len(data))
+    """Rebuild an IDRK entry storing data uncompressed (no chunk tags needed).
+
+    The header (0x38 bytes, plus a parameter block and sub-header for some types such as
+    G1T textures) is everything before the stored data: esize - dsize.
+    """
+    esize, dsize = struct.unpack_from("<QQ", original_entry, 8)
+    hl = esize - dsize
+    header = bytearray(original_entry[:hl])
+    struct.pack_into("<QQQ", header, 8, hl + len(data), len(data), len(data))
     flags = struct.unpack_from("<I", header, 0x2c)[0]
     struct.pack_into("<I", header, 0x2c, flags & ~COMPRESSED_FLAG)
     return bytes(header) + data
@@ -51,8 +55,8 @@ def find_rdb_entry(rdb: bytes, fid: int) -> int:
 def repoint(rdb: bytearray, fid: int, file_index: int, offset: int, entry_size: int, usize: int,
             uncompressed: bool = False):
     pos = find_rdb_entry(rdb, fid)
-    psize = struct.unpack_from("<Q", rdb, pos + 0x10)[0]
-    param = pos + 0x38
+    esize, psize = struct.unpack_from("<QQ", rdb, pos + 8)
+    param = pos + esize - psize
     if psize != 13 or rdb[param] != 1 or rdb[param + 1] != 4:
         raise ValueError(f"unexpected location record for {fid:08x}")
     struct.pack_into("<Q", rdb, pos + 0x18, usize)
