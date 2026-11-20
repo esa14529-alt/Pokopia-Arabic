@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://esa14529-alt.github.io/Pokopia-Arabic/sitemap.xml
