@@ -8,6 +8,8 @@
 
 تعريب كامل للعبة **Pokémon Pokopia** على Nintendo Switch 2، يعمل كمود (LayeredFS) على المحاكي.
 
+🌐 **صفحة المشروع:** https://esa14529-alt.github.io/Pokopia-Arabic/
+
 ## ⚠️ قبل أن تبدأ
 
 هذا المشروع **اجتهاد شخصي** من أحد محبي اللعبة، وليس ترجمة رسمية.
@@ -31,6 +33,15 @@
 | شاشة البداية: الشعار و«اضغط Ⓐ للبدء» | ✅ |
 
 **أبقيتها بحروفها الأصلية:** أسماء الـ Pokémon (مثل Pikachu)، وأسماء الأشخاص والمدن، وأنواع الكرات (Poké Ball).
+
+## 📸 صور من اللعبة بالعربي
+
+<p align="center">
+  <img src="docs/gallery/dialogue.webp" width="49%" alt="حوار بالعربي">
+  <img src="docs/gallery/requests.webp" width="49%" alt="طلبات الـ Pokémon بالعربي">
+  <img src="docs/gallery/world.webp" width="49%" alt="التعليمات بالعربي">
+  <img src="docs/gallery/habitat.webp" width="49%" alt="الموائل بالعربي">
+</p>
 
 ## 📁 محتوى المشروع
 

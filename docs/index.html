@@ -2,6 +2,7 @@
 <html lang="ar" dir="rtl">
 <head>
 <meta charset="utf-8">
+<meta name="color-scheme" content="light">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>تعريب بوكيمون بوكوبيا | Pokémon Pokopia Arabic Translation</title>
 <meta name="description" content="تعريب كامل للعبة بوكيمون بوكوبيا Pokémon Pokopia على Nintendo Switch 2: القوائم والحوارات والقصة والأدوات وشاشة البداية بالعربي. مشروع معجبين مجاني.">
@@ -28,9 +29,6 @@
     --cyan:#34c4ee; --orange:#ff9e2a; --purple:#be78f5; --red:#ff5c46; --leaf:#6ecd28;
     --sky1:#8fd8ff; --sky2:#d9f4ff;
   }
-  @media (prefers-color-scheme: dark) {
-    :root { --chk1:#3f5a22; --chk2:#4a6a28; --card:#1e2718; --ink:#f1f7e8; --muted:#b9c8ab; --edge:#8bd05a; --sky1:#1b3a55; --sky2:#24506f; }
-  }
   * { box-sizing:border-box }
   body {
     margin:0; font-family:"Baloo Bhaijaan 2",Tahoma,sans-serif; color:var(--ink); line-height:1.8;
@@ -41,8 +39,8 @@
   /* Hero: sky band with soft hills; a screenshot can sit behind via --hero */
   .hero {
     position:relative; text-align:center; padding:28px 16px 70px; overflow:hidden;
-    background:linear-gradient(180deg, rgba(143,216,255,.35), rgba(255,255,255,.15) 60%, rgba(196,232,92,.6)),
-               url("hero.webp") 72% 35% / cover no-repeat, var(--sky1);
+    background:linear-gradient(180deg, rgba(255,255,255,.05), rgba(255,255,255,0) 55%, rgba(196,232,92,.55)),
+               url("hero.webp?v=2") center 30% / cover no-repeat, var(--sky1);
   }
   .hero::after {
     content:""; position:absolute; inset:auto -10% -2px -10%; height:90px;
@@ -70,11 +68,12 @@
   ul { margin:0; padding-inline-start:22px } li { margin:4px 0 }
   table { width:100%; border-collapse:collapse } td { padding:6px 4px; border-bottom:2px dashed color-mix(in srgb, var(--edge) 35%, transparent) }
   code { direction:ltr; unicode-bidi:embed; background:color-mix(in srgb, var(--card) 80%, var(--leaf)); padding:1px 6px; border-radius:6px; font-family:Consolas,monospace; font-size:.9em }
-  .gallery { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:12px }
+  .gallery { display:grid; grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); gap:14px }
+  .gallery figure { margin:0 } .gallery figcaption { text-align:center; font-size:.95rem; color:var(--muted); margin-top:4px }
+  .gallery a { display:block }
   .gallery img { width:100%; height:auto; border-radius:16px; border:4px solid #fff; box-shadow:0 0 0 2px var(--edge) }
   a { color:var(--blue) }
   footer { text-align:center; color:var(--ink); font-size:.9rem; margin-top:28px; background:rgba(255,255,255,.7); border-radius:18px; padding:10px }
-  @media (prefers-color-scheme: dark) { footer { background:rgba(0,0,0,.35) } .lead { background:rgba(255,255,255,.9) } }
 </style>
 </head>
 <body>
@@ -89,6 +88,17 @@
   <a class="btn alt" href="https://github.com/esa14529-alt/Pokopia-Arabic/releases">التحميل والإصدارات</a>
   <a class="btn alt2" href="https://github.com/esa14529-alt/Pokopia-Arabic/issues">الإبلاغ عن خطأ</a>
 </div>
+
+<section>
+  <h2>📸 صور من اللعبة بالعربي</h2>
+  <div class="gallery">
+    <figure><a href="gallery/title.webp"><img src="gallery/title.webp" alt="شاشة البداية بالعربي" loading="lazy" width="1280" height="720"></a><figcaption>شاشة البداية بالعربي</figcaption></figure>
+    <figure><a href="gallery/dialogue.webp"><img src="gallery/dialogue.webp" alt="حوار مع Scyther بالعربي" loading="lazy" width="1280" height="717"></a><figcaption>حوارات الـ Pokémon</figcaption></figure>
+    <figure><a href="gallery/world.webp"><img src="gallery/world.webp" alt="التجول في العالم مع أزرار وتعليمات عربية" loading="lazy" width="1280" height="718"></a><figcaption>التعليمات وأسماء المهارات</figcaption></figure>
+    <figure><a href="gallery/requests.webp"><img src="gallery/requests.webp" alt="قائمة طلبات الـ Pokémon بالعربي" loading="lazy" width="1280" height="715"></a><figcaption>طلبات الـ Pokémon</figcaption></figure>
+    <figure><a href="gallery/habitat.webp"><img src="gallery/habitat.webp" alt="صفحة الموائل بالعربي" loading="lazy" width="1280" height="719"></a><figcaption>الموائل وأوصافها</figcaption></figure>
+  </div>
+</section>
 
 <section class="warn">
   <h2>⚠️ اجتهاد شخصي</h2>
