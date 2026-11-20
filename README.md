@@ -3,7 +3,7 @@
 # تعريب Pokémon Pokopia
 
 <p align="center">
-  <img src="assets/title_ar.png" width="420" alt="شعار بوكيمون بوكوبيا بالعربي">
+  <img src="assets/logo_ar.png" width="380" alt="شعار بوكيمون بوكوبيا بالعربي">
 </p>
 
 تعريب كامل للعبة **Pokémon Pokopia** على Nintendo Switch 2، يعمل كمود (LayeredFS) على المحاكي.
